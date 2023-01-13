@@ -51,7 +51,7 @@
 		max-width: 99%;
 	}
  
-	table {
+	table, th, td {
 		margin-right: 5%;
 		margin-left: 5%;
 	}
