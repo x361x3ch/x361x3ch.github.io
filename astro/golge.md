@@ -19,7 +19,7 @@ Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerin
 
 
 
-| N/E | 🔥 | 🌬️ | 🌱 | 💧 |  
+| N/E | Ateş | Hava | Toprak | Su |  
 |---:|:---:|:---:|:---:|:---:|  
 | Öncü | ♈︎ | ♎︎ | ♑︎ | ♋︎ |  
 | Değişken | ♐︎ | ♊︎ | ♍︎ | ♓︎ |  
