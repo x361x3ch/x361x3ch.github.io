@@ -1,183 +1,87 @@
+<style>
 
-<link href="styles.css" rel="stylesheet"> 
+	@import url('https://x361x3ch.github.io/stylesheet/styles.css');
 
-# ⚷ CHIRON
+</style>
 
-Chiron çok ciddi karmik bir yapıdır. Astrolojide psikolojik olarak zorlandığımız, fiziksel ve duygusal olarak yara aldığımız yerleri gösterir. Biraz Satürn, biraz da Uranüs gibidir. Karmik hataları gösterip sınarken, ani ve şok edici deneyimlerle beklenmedik anda acılar yaratır.
 
-Üstesinden gelemediğimiz ve kendimize yetemediğimiz, ancak bir başkasına manevi ve fiziksel olarak yararlarımızın dokunacağı alanları/konuları işaret eder. Bazen bir ebeveynin kaybı ya da onun veremediği sevgi, bazen terk edilmek, bazen evlat acısı, bazen aşk acısı...
+<p class="fash">JÜPİTER <br/> EVLERDE</p>
 
-Bazen geçmeyen bir hastalık veya fiziksel sakatlık... Öngörülemez olaylarla gelen acı ile değişim yaşamak zorunda kalırsınız.
+<p class="kaynak"> <a  href="https://twitter.com/i/status/1215222905237393409">2020-01-09 13.44</a>	<a href="https://twitter.com/tugceastro">tugceastro</a></p>
 
-İyicil açıları bile size yara verebilir, çünkü bu acı olmadan başkalarına şifa veremezsiniz.
 
-## Chiron bağlantılarına/açılarına bakarsak;
+[](https://twitter.com/i/status/1215222905237393409) Kendimizi güçlü, şanslı ve özgür hissettiğimiz, başkalarından yardım gördüğümüz, fırsatlarla karşılaştığımız ve maddi manevi geliştiğimiz alanları gösterir.
 
-- **Güneş - Chiron** Egoyu çözmek için baba veya otorite ile ilgili problemler
-- **Ay - Chiron** Anneyle yada duygusal sorunlar
-- **Merkür - Chiron** Zihinsel, psikolojik sorunlar
-- **Venüs - Chiron** Aşk, ayrılık acısı
-- **Mars - Chiron** Fiziksel hastalıklar
+![](https://pbs.twimg.com/media/EN1WyUJXUAAyjCL.jpg)
 
-Chiron kendi yaralarını iyileştiremeyen ancak başkalarına yardım edip şifa verecek bir öğretmendir. Aslında birilerinin yarasına merhem olabilmek, sahip olduğunuz yara ile yaşamanızı kolaylaştırır.
+[](https://twitter.com/i/status/1215224414901624832)
 
-Siz kendi bilgeliğinizi sunarsınız ve diğerleri de kendine bir fayda bulur.
+<p style="font-size:24px">♃ 1. Evde</p>
 
-Transit chiron geçtiği evde de (yine aynı şekilde) problem yaşadığınız bir konuda ustalaşacağınızı, ustalaşacağınız konuda birilerine yardımda bulunacağınızı, fedakarlık gösterebileceğinizi ifade eder.
+Kendini kolayca ifade eden, yaşama bağlı, spora önem veren. İyimser, yardımsever, şakacı, hoşgörülü. Girişkenliği sayesinde kendi şansını kendi yaratır. Olumsuz açılarda ön yargılı, abartmayı seven, bencil, tembel ve retro pozisyon varsa kilo problemi yaşayabilir.
 
-Chiron'un bulunduğu alanda kendinizi eksik hissedebilirsiniz ve bu eksiği kapatmak için araştırmalar yapmak, derinleşmek isteyebilirsiniz. Mesela natalda Chiron'um İkizler burcunda olduğundan bilgimle alakalı kendimi yetersiz hissedebiliyorum. Sosyal anlamda da etkileri var.😬
- 
-ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ[Twitter](https://twitter.com/i/status/1225810023416242176) | [Unroll](https://telegra.ph/a-Twitter-thread-from-kozmikkiwi-08-19)
+[](https://twitter.com/i/status/1215225223244656640)
 
-<div style="border-bottom:5px solid #f4f8fb;"> </div>
-     
-    
-<h1><center> Chiron Burçlarda <br \> Açtığı Yaralar </center></h1>
+<p style="font-size:24px">♃ 2. Evde</p>
 
-## ⚷ Koç
+Anlam arayışı maddi-manevi değerlerdir. Para kazanma konusunda kendini geliştiren. Finansal açıdan şanslı. Zengin olabilir. Cömerttir. Para, mal gibi varlıklarını geliştirmek için çabalayan. Olumsuz açılarda fazla hırs, gösteriş merakı, maddi krizler yaşayabilir.
 
-Kişiye fiziksel ve psikolojik yara verebilir. Özgüvensiz olma ve bunu saklama. İstediği şeyler adına savaşmamak. Kendi kimliği ile ilgili yaralar verebilir. Yada baba sorunları olabilir. Çocukken yaşanan travmalar etkili olabilir
+[](https://twitter.com/i/status/1215228138998943744)
 
-## ⚷ Boğa
+<p style="font-size:24px">♃ 3. Evde</p>
 
-Mazoşizm verebilir. Para ve materyalist konularda aşırı tutum. İnsanlardan ve yaşanmışlıklardan kopamamak. Kendi kendine acı çektirmek zorlu süreçleri uzatmak
+Yakın çevresiyle olan iletişimi, düşünme ve öğretme konularında şanslı ve gelişen. Yazma ve konuşma konusunda yetenekli. Büyük hayaller ve hedefleri olan. Günlük işler sıkıcı gelir, huzursuz bir beyni vardır. Zor açılarda geveze ve yalnızca kendi fikrine güvenen.
 
-## ⚷ İkizler
+[](https://twitter.com/i/status/1215230475675078656)
 
-Başkalarını kendinden zeki, yetenekli görmek. Ortama uyum sağlayamama korkusu, kolayca iletişim kuramama. Kendini doğru ifade edememe sorunu
+<p style="font-size:24px">♃ 4. Evde</p>
 
-## ⚷ Yengeç
+Kendi ailesi ve iç dünyası çok önemlidir. Evine ve ailesine düşkün. Doğduğu bölgede yaşarsa daha şanslı olacaktır. Yaşlılık zamanları rahat geçer. Kökeninde yabancı kültürler taşıyabilir. İçsel inançları ve duyguları güçlü. Büyük, güzel, geniş bir eve sahip olur.
 
-Yalnız ve terk edilmişlik hissi. Kimsenin onu desteklemediği düşüncesi. Hep bir eksiklik hissetme. Desteklendiğini hşssetmek için İlgi çekme çabası olabilir. Anne ile ilgili sorunlar olabilir. Evinden, ülkesinden ayrı kalma korkusu
+[](https://twitter.com/i/status/1215231605889011712)
 
-## ⚷ Aslan
+<p style="font-size:24px">♃ 5. Evde</p>
 
-Beğenilmediğini düşünme. İnsanların ondaki yaratıcılığı ve özel bir insan olduğunu göremediğini düşünmek. Ya ilgiden korkarlar ya da kendini ilgi için ortaya atarlar. Zorlu çocukluk anıları. Şöhret kaygısı
+Özgüven, duygusal ilişkiler, yaratıcılık konusunda kendini geliştirir. Geniş bir ailesi olabilir. Çocukları hayırlı ve akıllı olabilir. Aşkta çok hevesli ve deneyime açık. Birden çok flörtü olabilir. Zor açılarda sosyal yaşama ve şans oyunlara düşkünlük olabilir.
 
-## ⚷ Başak 
+[](https://twitter.com/i/status/1215232691618111488)
 
-Bir türlü tamamlanmamışlık ve temiz olmama hissi. Ya çok dağınık ya da obsesif bir plancı. Sağlığına kafayı takmak. Kendini düzeltme isteği ama nereden başlayacağını bilmem
+<p style="font-size:24px">♃ 6. Evde</p>
 
-## ⚷ Terazi
+Çalışma hayatı, hizmet ve günlük rutinler konusunda şanslı ve gelişen. İyi iş arkadaşları olan. Evcil hayvanlara düşkün. Sağlık ve beslenme konusunda bilgili. Zor açılarda çalışmaya ve rutinlere aşırı düşkün olabilir, kendini ihmal eder, aşırı yemek yiyebilir.
 
-İlişkisi olmadığında yalnız ve eksik hissetme. Kötü bir ilişkiyi yalnız kalmamak için devam ettirmek. Yoğun bir güzellik ve uyum ihtiyacı, arayışı
+[](https://twitter.com/i/status/1215233817889427456)
 
-## ⚷ Akrep
+<p style="font-size:24px">♃ 7. Evde</p>
 
-İncinmemek için dünyaya duvar örmek, paranoya ve tüm dünya sana karşıymış hissi. Hayatındaki insanları aşırı koruması ve manipülatif olması. Ölümle ilgili endişeler. Psikolojik yada fiziksel şiddet görmüş yada yaşamış olabilir
+İlişkiler, evlilik ve ortaklıklarda şanslı. Yabancı, manevi yönü gelişmiş bir eşi olabilir. İkili ilişkilerde fazla iyimserdir. Çok hoşgörülü olabilir. Zor açılarda karşısındakini çok abartıp, yüceltir. Aşkta fazla beklentilidir. Bu nedenle hayal kırıklığı yaşar.
 
-## ⚷ Yay
+[](https://twitter.com/i/status/1215236212568526848)
 
-Hayatın anlamsız olduğu hissi, ilahi güçlere inanmayabilir. Ya değişim ve maceradan çok korkar ya da özgürlüğü adına her riski alır. Asla hayata dair sorularına yanıt alamama korkusu. Başına buyruk olma
+<p style="font-size:24px">♃ 8. Evde</p>
 
-## ⚷ Oğlak
+Ortak kazanç ve paylaşımlar, ruhsal açıdan gelişim alanında şanslı. Başkasının parasının idaresi, şirket yönetimi, yatırım, bankacılık işlerinde başarılı. Paranın değerini bilen. Uzun bir yaşam ve rahat bir ölüm. Libidosu yüksek. Paraya ve cinselliğe aşırı düşkün.
 
-Tanınmama, adının asla duyulmaması korkusu. Kontrolünü kaybetme korkusu. Sadece gördüğü şeylere inanma, hayatın her alanında kontrolü tutma çabası. Yalnız kalmaktan korkabilir. Sürekli planlı olma güdüsü
+[](https://twitter.com/i/status/1215237836716281856)
 
-## ⚷ Kova
+<p style="font-size:24px">♃ 9. Evde</p>
 
-İnsanlık tarafından izole edilmiş, bu hayatta izleyiciymiş gibi hissetme. Kalabalıkta bile yalnızlık hissetme farklı olduğunu düşünme. Toplumsal konularda yüksek bilinç
+Farklı hayat görüşlü, felsefi düşünceler, yüksek öğrenim iyi, özgür, şansının her alanda açık olması. Yabancı kültürlere ilgili. Uzaklarda yaşayabilir. Yabancı dile yatkınlık. Öğretmen, yazar, hukukçu olabilir. Zor açılarda fanatik, kendine karşı fazla hoşgörülü.
 
-## ⚷ Balık
+[](https://twitter.com/i/status/1215239425472507904)
 
-Tanrısal olana, aşka ve doğru olması gerekene inancını yitirme. Evren ve insanlığın acımasız olduğu fikri. İçten içe aşırı hassas. İnsanlara çok zor açılan. Merhametliliği yüzünden sürekli kullanılır ve kurban rolündedir. Herkes için kendini feda edebilir.
- 
-ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ[Twitter](https://twitter.com/i/status/999734340727853057) | [Unroll](https://telegra.ph/a-Twitter-thread-from-mooneffectt-08-20)
+<p style="font-size:24px">♃ 10. Evde</p>
 
-<div style="border-bottom:5px solid #f4f8fb;"> </div>
+Meslek hayatı, toplumdaki statüsünde gelişimi iyidir. İş hayatı başarılı ve şanslıdır. Sosyal, hırslı, paraya önem veren. Seçtiği meslek ve hedeflerinde önemli başarılar ve saygınlık kazanır. Zor açılarda kibirli, olduğundan fazlaymış gibi davranan sert kişilik.
 
-# CHİRON ⚷ 
+[](https://twitter.com/i/status/1215240689589587968)
 
-Yaralı ve şifacı Chiron fiziksel veya psikolojik yaraları, korku ve endişelerin nedenini, üstesinden gelemediğimiz problemleri gösterir. 
+<p style="font-size:24px">♃ 11. Evde</p>
 
-Adeta bir şifacı gibi kendimizde saramayıp, başkasında sardığımız ve faydalı olduğumuz konuları gösterir. İnceleyelim:
+Sosyal gruplar, arkadaşlıklar ve hedefleri yoluyla gelişen. Sosyal yaşamda başarılı, çevresi geniş. Yüksek statülü arkadaşları olabilir. İyi ve rahat bir yaşam. Kitlelere ve topluluklara hitap eder. Geniş bir ailesi olabilir. Zorlu açıda imkansız hayaller kuran.
 
-## ⚷ Koç ya da 1. Evde
+[](https://twitter.com/i/status/1215241860387627009)
 
-Cesaretsizlik, dış görüntüsünden memnun olmamak, kendini yalnız hissetmek, karakter ve benlikle ilgili sorunlar, kendi başına hareket edemeyip bireysel davranamamak, öncülük edememek. 
+<p style="font-size:24px">♃ 12. Evde</p>
 
-Bu kişilerin cesaretli ve girişimci olup kendine inanmaya ihtiyacı var. 
-
-## ⚷ Boğa  ya da 2. Evde
-
-Savurganlık, parayı korku ve engel haline getirmek, para olmadığında kendini yetersiz görüp yeteneklerini değerlendirmemek. 
-
-Bu kişilerin parayı kendi değer duygusuyla eşleştirmeden ve iş konusunda aşırı seçicilik yapmadan iş hayatına atılması gerekir. 
-
-## ⚷ İkizler ya da 3. Evde
-
-Kendini ve düşüncelerini ifade edememe, anlaşılmama korkusu, hep öğrenci kalma isteği, yükseköğretimi bitirip kendini çok geliştirse dahi yetersizlik hissi, yakın çevresine kendini kanıtlama çabası. 
-
-Bu kişiler kendisini doğru ifade etmeyi öğrenmelidir. 
-
-## ⚷ Yengeç ya da 4. Evde
-
-Herkesi ailesi gibi görüp ilgilenmeye çalışmak, ailesiyle ilgili sorunlar ve yaralar, sevgiyi hissedemeyip yanlış yerlerde aramak. 
-
-Bu kişilerin sabırlı olup, ilerde doğru eş seçimine önem vererek kuracağı aileye sevgisini ve ilgisini vermesi gerekir. 
-
-## ⚷ Aslan ya da 5. Evde
-
-Aşk ve çocuklarla alakalı büyük beklentilerden dolayı hayal kırıklıkları, aileden destek görememek, yeteneklerine güvenmeyip birinin ona hadi yap, başarabilirsin, başardın demesini beklemek. 
-
-Bu kişiler kimsenin onayına gerek duymadan kendine güvenmeli. 
-
-## ⚷ Başak ya da 6. Evde
-
-Sağlık sorunu neredeyse o konuda sağlıkçı olmak, başkaları için çok hizmet verip saçını süpürge etsede emekleri görülmeyip karşılığını alamamak. 
-
-Bu kişiler başkaları için kendini gereksiz yıpratmamayı öğrenmeli ve yaptığı her işte takdir beklememelidir.
-
-## ⚷ Terazi ya da 7. Evde
-
-Aşırı taviz verip tolerans gösterse de bir türlü ilişkilerinde uyum ve denge kuramamak, kendi içsel dengesini partnere bağlayıp gerçek rengini saklamak. 
-
-Bu kişiler uyum gösteriyormuş gibi yapmak yerine kendini olduğu gibi ifade ederek içten olmalıdır. 
-
-## ⚷ Akrep ya da 8. Evde
-
-Üst seviyede acılar çekmek ve ruhsal şifacılık, büyük haksızlıklar, savaşsada hakkını alamamak, aşırı takıntılı olup değişime ve yeniliğe direnmek. 
-
-Bu kişiler biten şeyleri kabullenip çekip gitmeyi bilmeli ve adeta küllerinden doğmayı deneyimlemelidir. 
-
-## ⚷ Yay ya da 9. Evde
-
-Her şeyi kişisel algılayıp alınmak, yaşanılan olumsuzluklarda kendini suçlama, yükseköğretimi bitirememe, yurtdışı ve uzaklarla alakalı sorunlar. 
-
-Bu kişiler kendini suçlamaktan vazgeçip, objektif bakarak olay ve insanlardan kendini soyutlayabilmelidir. 
-
-## ⚷ Oğlak ya da 10. Evde
-
-Toplumda iyi bir statüye sahip olamamak, yetenekli ve güçlü olmasına rağmen hakkının yenmesi, hayır diyememek, kendini sürekli başkalarının gözünden değerlendirmek. 
-
-Bu kişiler yetenek ve mesleği konusunda özgüvenli olup kendini ezdirmemelidir. 
-
-## ⚷ Kova ya da 11. Evde
-
-Aile ve arkadaşlardan hayır göremeyip sosyal ortamdan uzak durmak, toplumda önemli bir kimlik edinme çabası. 
-
-Herkes tarafından sayılıp sevilmek ve kitleleri peşinden sürüklemek yerine kendine ait küçük bir çevre oluşturup orada mutlu olmayı öğrenmelidir. 
-
-## ⚷ Balık ya da 12. Evde
-
-Gizli düşmanlar, ruhsal ve bilinçaltı problemleri, harika bir şifacı olmak, yaptığı sınırsız fedakârlıklar ve iyilikler sonucu yaşanılan hayal kırıklığı. 
-
-Bu kişiler her konuda sınırlı olmayı öğrenmeli ve fedakârlık yaparken kendini kurban etmemelidir. 
-
-## ⚷ Retro 
-
-Chiron'un düştüğü burç ve evlerden dolayı aldığımız yaraları hayatımız boyunca aşamayacağımızı düşündürür. Olumsuz etkilerini daha çok hissettir ve bunları aşmamız daha çok zaman alabilir. 
- 
-ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ[Twitter](https://twitter.com/i/status/1200826926191054848) | [Unroll](https://telegra.ph/a-Twitter-thread-from-chironterazi-08-22-15)
-
-<div style="border-bottom:5px solid #f4f8fb;"> </div>
-     
-<h1> <center> Chiron'un Hayatınızı <br \>  Dönüştürecek <br \>  Gizli Şifa Anahtarı </center> </h1>
-
-"Aldığın yara, ışığın sana akacağı yerdir." 
-
--Rumi
-
-## ⚷ Koç'ta veya 1. Evde 
-
-**İyileştirilme
+Hayat boyu terslik ve düşmanlıktan korunan. Kendini akışa bırakırsa huzura kavuşur. İç dünyasına dönüp yaşamın anlamını arar. Duyarlı ve yardımseverdir. Araştırmacı, doktor, sanatçı olabilir. Spiritüel yetenekleri olan. Zor açılarda aşırı hayalci ve şüphecidir.
