@@ -1,8 +1,4 @@
-<style>
-
-	@import url('https://x361x3ch.github.io/stylesheet/styles.css');
-
-</style>
+<link href="styles.css" rel="stylesheet"> 
 
 
 <p class="fash">JÜPİTER <br/> EVLERDE</p>
