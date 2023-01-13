@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+	body {
+		background-color: #272B31;
+	} 
+
+	p {
+		color: #F0EAEA;
+		font-family: 'Quicksand', sans-serif;
+		margin-right: 5%;
+		margin-left: 5%;
+		} 
+		
+	p.fash {
+		line-height: 0.8;
+		font-family: 'Poppins', sans-serif;
+		text-align: center;
+		font-weight: 200;
+		font-size: 32px;
+		text-transform: capitalize;
+		margin-top: 10%;
+		margin-bottom: 10%;
+	}
+	
+	p.kaynak {
+		background-color: #FE45AA; 
+		line-height: 0.7;
+		text-align: right;
+		color: #E8E8E8;
+		text-decoration: none;
+		font-family: 'Poppins', sans-serif;
+		font-weight: 200;
+	} 
+	
+	li {
+		color: #262930;
+		font-family: 'Quicksand', sans-serif;
+		margin-top: 0%;
+		margin-right: 5%;
+		line-height: 1;
+		} 
+	
+	a {
+		color: #E8E8E8;
+		text-decoration: none;
+		font-family: 'Poppins', sans-serif;
+		font-weight: 900;
+	} 
+
+	img {
+		max-width: 99%;
+	}
+ 
