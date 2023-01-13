@@ -51,3 +51,7 @@
 		max-width: 99%;
 	}
  
+	td {
+		margin-right: 5%;
+		margin-left: 5%;
+	}
