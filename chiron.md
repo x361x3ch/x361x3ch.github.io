@@ -1,4 +1,4 @@
-<style>
+
 <link href="styles.css" rel="stylesheet"> 
 
 # ⚷ CHIRON
