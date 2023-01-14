@@ -53,12 +53,12 @@
  
 	table, th, td {
 		margin: auto;
-		border: 1px solid #272B31;
+		border: 1px solid pink;
 		border-collapse:collapse;
 		text-align:center;
 		table-layout: fixed;
 		background: #272B31;
-		color: pink;
+		color: #F0EAEA;
 		font-family: 'Quicksand', sans-serif;
 		max-width: 90%;
 	}
