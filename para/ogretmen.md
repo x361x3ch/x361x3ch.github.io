@@ -36,13 +36,6 @@ Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğ
 [](https://twitter.com/talhabektas/status/1613968188907159552)
 
 <table>
-<thead>
-<tr>
-<th style="text-align:center"> </th>
-<th style="text-align:center"> </th>
-<th style="text-align:center"> </th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg" alt=""></td>
