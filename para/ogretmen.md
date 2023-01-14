@@ -50,7 +50,7 @@ Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğ
 <tbody>
 <tr>
 <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg" alt=""></td>
-<td style="text-align:center"> <p style="font-size:10px"> BT Öğretmeni, PhDc. Eğitim Yönetimi, Okul Müdürü </p> </td>
+<td style="text-align:center"> <p style="font-size:10px"> BT Öğretmeni <br/> PhDc. Eğitim Yönetimi <br/> Okul Müdürü </p> </td>
 <td style="text-align:center">Talha Bektaş <a href="https://twitter.com/talhabektas/">@talhabektas</a></td>
 </tr>
 </tbody>
