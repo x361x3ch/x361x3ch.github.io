@@ -53,7 +53,7 @@
  
 	table, th, td {
 		margin: auto;
-		border: 0;
+		border: 0.1;
 		border-collapse:collapse;
 		text-align:center;
 		table-layout: fixed;
