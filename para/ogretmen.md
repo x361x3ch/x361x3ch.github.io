@@ -1,6 +1,6 @@
 <link href="../styles.css" rel="stylesheet"> 
 
-<center> <p style="font-size:24px"> Öğretmen Maaşları </p> </center>
+<center><p style="font-size:24px"> Öğretmen Maaşları </p></center>
 
 |PF|UNVAN|AD SOYAD & NICK|  
 |:---:|:---:|:---:|  
@@ -39,9 +39,22 @@ Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğ
 
 [](https://twitter.com/talhabektas/status/1613968188907159552)
 
-|PF|UNVAN|AD SOYAD & NICK|  
-|:---:|:---:|:---:|  
-|  ![](https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg) | <p style="font-size:10px"> BT Öğretmeni, PhDc. Eğitim Yönetimi, Okul Müdürü  | Talha Bektaş [@talhabektas](https://twitter.com/talhabektas/) </p> |
+<table>
+<thead>
+<tr>
+<th style="text-align:center">PF</th>
+<th style="text-align:center">UNVAN</th>
+<th style="text-align:center">AD SOYAD &amp; NICK</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg" alt=""></td>
+<td style="text-align:center"> <p style="font-size:10px"> BT Öğretmeni, PhDc. Eğitim Yönetimi, Okul Müdürü </p> </td>
+<td style="text-align:center">Talha Bektaş <a href="https://twitter.com/talhabektas/">@talhabektas</a></td>
+</tr>
+</tbody>
+</table>
 
 Hocam, istisnai olarak alınabilir. Ancak ve ancak döner sermaye varsa ve çok yüksek bir ciro yaptıysa olur. Ancak, çok yüksek ciro yapabilmesi için ilgili öğretmenin ders saatleri dışında, cumartesi pazar dahil fiilen ciddi bir çalışma yapması gerek. Ayrıca, bu bir üretimdir  ve serbest piyasa koşulları geçerlidir. Yani üretimin kalitesinden veya "şirketin" vergi ödemesinden vs sorumludur, her türlü olumsuzlukta cezai yükümlülüğü vardır. 
 Sözün özü, öğretmenlik dışında ek iş yapmış kadar yorulur ve karşılığını alırsınız. Pazarda limon satarak ek gelir elde etmekten tek farkı yasal olmasıdır. Yoksa, salt derse girip böyle bir ücret almak mümkün değildir.
