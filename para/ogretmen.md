@@ -1,4 +1,4 @@
-<link href="styles.css" rel="stylesheet"> 
+<link href="https://raw.githubusercontent.com/x361x3ch/x361x3ch.github.io/main/styles.css" rel="stylesheet"> 
 # Öğretmen Maaşları
 
 |PF|UNVAN|AD SOYAD|NICK|  
