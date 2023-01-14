@@ -1,8 +1,7 @@
 <link href="../styles.css" rel="stylesheet"> 
 
 <center><p class="fash" style="font-size:3em"> Öğretmen Maaşları </p></center>
-
-| | | |  
+  
 |:-----:|:-:|:-----:|  
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
@@ -21,16 +20,14 @@
 Herkes için geçerli olduğunu iddia etmiyorum. Ama bugün gördüğüm resmi bordro bunun mümkün olduğunu açıkça gösterdi. En azından Turizm meslek lisesindeki aşçılık ile ilgili bir branş için durum böyleydi
 
 [](https://twitter.com/turkertoker/status/1613944082866343936)
-
-| | |  
+  
 |:-----:|:---:|  
 | ![](https://pbs.twimg.com/profile_images/1598456574040752128/GMPJdQA9_bigger.jpg) | Türker Toker [@turkertoker](https://twitter.com/turkertoker) |
 
 Az daha okuyup olaydın. Ne ağlıyon 😂
 
 [](https://twitter.com/asalihsimsek/status/1613963770782515201)
-
-| | | |  
+  
 |:-----:|:-:|:-----:|  
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
@@ -59,16 +56,14 @@ Hocam, istisnai olarak alınabilir. Ancak ve ancak döner sermaye varsa ve çok 
 Sözün özü, öğretmenlik dışında ek iş yapmış kadar yorulur ve karşılığını alırsınız. Pazarda limon satarak ek gelir elde etmekten tek farkı yasal olmasıdır. Yoksa, salt derse girip böyle bir ücret almak mümkün değildir.
 
 [](https://twitter.com/asalihsimsek/status/1613969772852412436)
-
-| | | |  
+  
 |:-----:|:-:|:-----:|  
 | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
 Hocam aynı üretim üniversite de yapılıyor örneğin ziraat fakültesi kefir üretiyor ama böyle bir ücret alamıyor. Üretim yapılması ile derdim olamaz. Mesele MEB deki kara delikler. Eşit işe eşit ücret ve niteliğe uygun ücretlendirme olmaması. Yoksa başkasının gelirinde gözümüz yok
 
 [](https://twitter.com/asalihsimsek/status/1613990417447456787)
-
-| | | |  
+  
 |:-----:|:-:|:-----:|  
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
