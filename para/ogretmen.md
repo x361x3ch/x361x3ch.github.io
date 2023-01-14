@@ -14,8 +14,7 @@
 [2023-01-13 16.13](https://twitter.com/asalihsimsek/status/1613886884110893057)
 
 [](https://twitter.com/asalihsimsek/status/1613963517534818304)
-
-| | | |  
+  
 |:-----:|:-:|:-----:|  
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
