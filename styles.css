@@ -54,8 +54,7 @@
 	table, th, td {
 		margin: auto;
 		border: none!important;
-		border-top: #272B31;
-		border-bottom: none!important;
+		border-style: hidden; 
 		text-align:center;
 		table-layout: fixed;
 		background: #3E4043;
