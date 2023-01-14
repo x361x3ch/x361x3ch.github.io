@@ -50,15 +50,3 @@
 	img {
 		max-width: 99%;
 	}
- 
-	table, th, td {
-		margin: auto;
-		border: none!important;
-		border-style: hidden; 
-		text-align:center;
-		table-layout: fixed;
-		background: #3E4043;
-		font-color: #0E3F79;
-		font-family: 'Quicksand', sans-serif;
-		max-width: 90%;
-	}
