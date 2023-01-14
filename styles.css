@@ -50,3 +50,9 @@
 	img {
 		max-width: 99%;
 	}
+
+	table, th, td {
+		/*margin-right: 5%;*/
+		margin-left: 5%;
+		border: 0px;
+	}
