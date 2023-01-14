@@ -52,7 +52,10 @@
 	}
  
 	table, th, td {
-		/*margin-right: 5%;*/
+		background-color: #272B31;
+		color: #F0EAEA;
+		font-family: 'Quicksand', sans-serif;
+		margin-right: 5%;
 		margin-left: 5%;
 		border: 0px;
 	}
