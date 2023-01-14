@@ -52,11 +52,10 @@
 	}
  
 	table, th, td {
-		background-color: #272B31;
-		color: #F0EAEA;
+		background: #F0EAEA;
+		border-radius: 5px;
 		font-family: 'Quicksand', sans-serif;
 		margin-right: 5%;
 		margin-left: 5%;
-		border-style: transparent;
 		max-width: 90%;
 	}
