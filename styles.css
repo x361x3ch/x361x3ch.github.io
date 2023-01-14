@@ -55,6 +55,7 @@
 		color: #E8E8E8; 
 		background: #272B31;
 		border: none!important;
+		border-collapse: collapse;
 		font-family: 'Quicksand', sans-serif;
 		margin-right: 5%;
 		margin-left: 5%;
