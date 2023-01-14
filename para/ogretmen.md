@@ -1,4 +1,5 @@
 <link href="../styles.css" rel="stylesheet"> 
+
 <p style="font-size:24px"> Öğretmen Maaşları </p>
 
 |PF|UNVAN|AD SOYAD & NICK|  
@@ -24,7 +25,7 @@ Herkes için geçerli olduğunu iddia etmiyorum. Ama bugün gördüğüm resmi b
 
 |PF|AD SOYAD & NICK|  
 |:---:|:---:|  
-| ![](https://pbs.twimg.com/profile_images/1598456574040752128/GMPJdQA9_bigger.jpg) | [Türker Toker @turkertoker](https://twitter.com/turkertoker) |
+| ![](https://pbs.twimg.com/profile_images/1598456574040752128/GMPJdQA9_bigger.jpg) | Türker Toker   [@turkertoker](https://twitter.com/turkertoker) |
 
 Az daha okuyup olaydın. Ne ağlıyon 😂
 
