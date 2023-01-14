@@ -51,10 +51,41 @@
 		max-width: 99%;
 	}
 
-	table, th, td {
-		margin-right: 5%;
-		margin-left: 5%;
-		max-width: 90%;
-		border: 0px;
-		color: #272B31;
+	.tg  {
+		border:none;
+		border-collapse:collapse;
+		border-spacing:0;
+	}
+		
+	.tg td {
+		border-style:solid;
+		border-width:0px;
+		font-family:Arial, sans-serif;
+		font-size:14px;
+		overflow:hidden;
+		padding:10px 5px;
+		word-break:normal;
+	}
+		
+	.tg th {
+		border-style:solid;
+		border-width:0px;
+		font-family:Arial, sans-serif;
+		font-size:14px;
+		font-weight:normal;
+		overflow:hidden;
+		padding:10px 5px;
+		word-break:normal;
+	}
+		
+	.tg .tg-c3ow {
+		border-color:inherit;
+		text-align:center;
+		vertical-align:top
+	}
+		
+		.tg .tg-0pky { 
+		border-color:inherit;
+		text-align:left;
+		vertical-align:top
 	}
