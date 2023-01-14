@@ -52,7 +52,8 @@
 	}
 
 	table, th, td {
-		/*margin-right: 5%;*/
+		margin-right: 5%;
 		margin-left: 5%;
 		border: 0px;
+		color: #F0EAEA;
 	}
