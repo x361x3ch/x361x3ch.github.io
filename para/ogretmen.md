@@ -1,4 +1,4 @@
-<link href="../main/styles.css" rel="stylesheet"> 
+<link href="../styles.css" rel="stylesheet"> 
 # Öğretmen Maaşları
 
 |PF|UNVAN|AD SOYAD|NICK|  
