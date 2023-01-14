@@ -41,7 +41,7 @@ Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğ
 
 |PF|UNVAN|AD SOYAD & NICK|  
 |:---:|:---:|:---:|  
-|  ![](https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg) | BT Öğretmeni, PhDc. Eğitim Yönetimi, Okul Müdürü  | Talha Bektaş [@talhabektas](https://twitter.com/talhabektas/) |
+|  ![](https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg) | <p style="font-size:10px"> BT Öğretmeni, PhDc. Eğitim Yönetimi, Okul Müdürü  | Talha Bektaş [@talhabektas](https://twitter.com/talhabektas/) </p> |
 
 Hocam, istisnai olarak alınabilir. Ancak ve ancak döner sermaye varsa ve çok yüksek bir ciro yaptıysa olur. Ancak, çok yüksek ciro yapabilmesi için ilgili öğretmenin ders saatleri dışında, cumartesi pazar dahil fiilen ciddi bir çalışma yapması gerek. Ayrıca, bu bir üretimdir  ve serbest piyasa koşulları geçerlidir. Yani üretimin kalitesinden veya "şirketin" vergi ödemesinden vs sorumludur, her türlü olumsuzlukta cezai yükümlülüğü vardır. 
 Sözün özü, öğretmenlik dışında ek iş yapmış kadar yorulur ve karşılığını alırsınız. Pazarda limon satarak ek gelir elde etmekten tek farkı yasal olmasıdır. Yoksa, salt derse girip böyle bir ücret almak mümkün değildir.
