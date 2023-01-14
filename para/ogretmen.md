@@ -2,7 +2,7 @@
 
 <center><p class="fash" style="font-size:3em"> Öğretmen Maaşları </p></center>
 
-|<!-- -->|<!-- -->|<!-- -->|  
+| | | |  
 |:-----:|:-:|:-----:|  
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
@@ -15,7 +15,7 @@
 
 [](https://twitter.com/asalihsimsek/status/1613963517534818304)
 
-|<!-- -->|<!-- -->|<!-- -->|  
+| | | |  
 |:-----:|:-:|:-----:|  
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
@@ -23,7 +23,7 @@ Herkes için geçerli olduğunu iddia etmiyorum. Ama bugün gördüğüm resmi b
 
 [](https://twitter.com/turkertoker/status/1613944082866343936)
 
-|<!-- -->|<!-- -->|  
+| | |  
 |:-----:|:---:|  
 | ![](https://pbs.twimg.com/profile_images/1598456574040752128/GMPJdQA9_bigger.jpg) | Türker Toker [@turkertoker](https://twitter.com/turkertoker) |
 
@@ -31,7 +31,7 @@ Az daha okuyup olaydın. Ne ağlıyon 😂
 
 [](https://twitter.com/asalihsimsek/status/1613963770782515201)
 
-|<!-- -->|<!-- -->|<!-- -->|  
+| | | |  
 |:-----:|:-:|:-----:|  
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
@@ -42,8 +42,8 @@ Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğ
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><!-- --></th>
-<th style="text-align:center"><!-- --></th>
+<th style="text-align:center"> </th>
+<th style="text-align:center"> </th>
 <th style="text-align:center">AD SOYAD &amp; NICK</th>
 </tr>
 </thead>
@@ -61,7 +61,7 @@ Sözün özü, öğretmenlik dışında ek iş yapmış kadar yorulur ve karşı
 
 [](https://twitter.com/asalihsimsek/status/1613969772852412436)
 
-|<!-- -->|<!-- -->|<!-- -->|  
+| | | |  
 |:-----:|:-:|:-----:|  
 | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
@@ -69,7 +69,7 @@ Hocam aynı üretim üniversite de yapılıyor örneğin ziraat fakültesi kefir
 
 [](https://twitter.com/asalihsimsek/status/1613990417447456787)
 
-|<!-- -->|<!-- -->|<!-- -->|  
+| | | |  
 |:-----:|:-:|:-----:|  
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
