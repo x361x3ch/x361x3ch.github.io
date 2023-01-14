@@ -54,8 +54,7 @@
 	table, th, td {
 		color: #E8E8E8; 
 		background: #272B31;
-		border: none!important;
-		border-collapse: collapse;
+		border: 0px solid !important;
 		font-family: 'Quicksand', sans-serif;
 		margin-right: 5%;
 		margin-left: 5%;
