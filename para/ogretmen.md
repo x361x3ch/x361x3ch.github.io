@@ -44,7 +44,7 @@ Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğ
 <tr>
 <th style="text-align:center"> </th>
 <th style="text-align:center"> </th>
-<th style="text-align:center">AD SOYAD &amp; NICK</th>
+<th style="text-align:center"> </th>
 </tr>
 </thead>
 <tbody>
@@ -74,3 +74,27 @@ Hocam aynı üretim üniversite de yapılıyor örneğin ziraat fakültesi kefir
 |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr | Ahmet  Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek) |
 
 Buradan saldıran MEB çalışanlarına tek tek cevap vermek isterdim ama neyi savunduklarını ya da ne karşı geldiklerini bile bilmiyorlar. Eğitim kaynaklarının nasıl israf edildiği ve öğretmenler arasında nasıl adaletsizliğin olduğunu herkes biliyor.
+
+[](https://twitter.com/HasanHseyinCce/status/1613953521681928208)
+
+[![](https://pbs.twimg.com/profile_images/997784439710257158/Fge6yHBf_bigger.jpg)](https://twitter.com/HasanHseyinCce)
+
+meslek lisesinde teknik öğretmenim yok öyle birşey hocam
+
+[](https://twitter.com/Glistan23563968/status/1613957219019522056)
+
+[![](https://pbs.twimg.com/profile_images/1304141550419693570/ORckr33Y_bigger.jpg)](https://twitter.com/Glistan23563968)
+
+12 yıldır meslek lisesinde çalışıyorum. Hiçbir meslektaşım böyle bir para almıyor. En yüksek müdür ek dersi 7-8’i zor görüyor
+
+[](https://twitter.com/karakayamusa/status/1613970195155910673)
+
+[![](https://pbs.twimg.com/profile_images/682533991686254592/LwzCP28K_bigger.jpg)](https://twitter.com/karakayamusa)
+
+Bordroyu paylaşır mısınız?
+
+[](https://twitter.com/recepulger06/status/1613974430354374665)
+
+[![](https://pbs.twimg.com/profile_images/1592838080897187841/YLlSCfgM_bigger.jpg)](https://twitter.com/recepulger06)
+
+Elinizde bordro var mı? Yoksa söylentiye inanmış olursunuz... Ben de çok şey duyuyorum
