@@ -1,6 +1,6 @@
 <link href="../styles.css" rel="stylesheet"> 
 
-<p style="font-size:24px"> Öğretmen Maaşları </p>
+<p id="fash" style="font-size:24px"> Öğretmen <br/> Maaşları </p>
 
 |PF|UNVAN|AD SOYAD & NICK|  
 |:---:|:---:|:---:|  
