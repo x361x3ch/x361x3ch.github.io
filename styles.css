@@ -52,11 +52,14 @@
 	}
  
 	table, th, td {
-		color: #E8E8E8; 
+		margin: auto;
+		border: 1px solid white;
+		border-collapse:collapse;
+		text-align:center;
+		table-layout: fixed;
 		background: #272B31;
-		border-style: hidden;
+		opacity: 0.5;
+		color: #E8E8E8;
 		font-family: 'Quicksand', sans-serif;
-		margin-right: 5%;
-		margin-left: 5%;
 		max-width: 90%;
 	}
