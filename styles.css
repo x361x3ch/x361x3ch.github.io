@@ -58,7 +58,7 @@ img {
   max-width: 99%;
 }
 
-table, tg, td, th {
+table, tg, td {
   font-family: "Quicksand", sans-serif;
   color: white;
   border: 0px solid white !important;
@@ -66,6 +66,10 @@ table, tg, td, th {
   max-width:90%;
   margin-left: auto;
   margin-right: auto;
+}
+
+th {
+  border-top: none;
 }
 	
 hr {
