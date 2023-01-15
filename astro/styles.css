@@ -1,92 +1,91 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap");
 
-	body {
-		background-color: #272B31;
-	} 
+body {
+  background-color: #272b31;
+}
 
-	p {
-		color: #F0EAEA;
-		font-family: 'Quicksand', sans-serif;
-		margin-right: 5%;
-		margin-left: 5%;
-		} 
-		
-	p.fash {
-		line-height: 0.8;
-		font-family: 'Poppins', sans-serif;
-		text-align: center;
-		font-weight: 200;
-		font-size: 32px;
-		text-transform: capitalize;
-		margin-top: 10%;
-		margin-bottom: 10%;
-	}
-	
-	p.kaynak {
-		background-color: #FE45AA; 
-		line-height: 0.7;
-		text-align: right;
-		color: #E8E8E8;
-		text-decoration: none;
-		font-family: 'Poppins', sans-serif;
-		font-weight: 200;
-	} 
-	
-	li {
-		color: #262930;
-		font-family: 'Quicksand', sans-serif;
-		margin-top: 0%;
-		margin-right: 5%;
-		line-height: 1;
-		} 
-	
-	a {
-		color: #E8E8E8;
-		text-decoration: none;
-		font-family: 'Poppins', sans-serif;
-		font-weight: 900;
-	} 
+p {
+  color: #f0eaea;
+  font-family: "Quicksand", sans-serif;
+  margin-right: 5%;
+  margin-left: 5%;
+}
 
-	img {
-		max-width: 99%;
-	}
- 
-		.tg {
-  		border: none;
- 		 border-collapse: collapse;
- 		 border-spacing: 0;
-		}
-		
-		.tg td {
- 		 border-style: solid;
-		  border-width: 0px;
-		  font-family: Arial, sans-serif;
-		  font-size: 14px;
-		  overflow: hidden;
-		  padding: 10px 5px;
- 		 word-break: normal;
-		}
-		
-		.tg th {
-  		border-style: solid;
-		  border-width: 0px;
-		  font-family: Arial, sans-serif;
-		  font-size: 14px;
-		  font-weight: normal;
-		  overflow: hidden;
-		  padding: 10px 5px;
-		  word-break: normal;
-		}
-		
-		.tg .tg-wp8o {
- 		 border-color: #000000;
-		  text-align: center;
-		  vertical-align: top;
-		}
-		
-		.tg .tg-73oq {
-		  border-color: #000000;
-		  text-align: left;
-		  vertical-align: top;
-		}
+p.fash {
+  line-height: 0.8;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-weight: 200;
+  font-size: 32px;
+  text-transform: capitalize;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
 
+p.kaynak {
+  background-color: #fe45aa;
+  line-height: 0.7;
+  text-align: right;
+  color: #e8e8e8;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+}
+
+li {
+  color: #262930;
+  font-family: "Quicksand", sans-serif;
+  margin-top: 0%;
+  margin-right: 5%;
+  line-height: 1;
+}
+
+a {
+  color: #e8e8e8;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+}
+
+img {
+  max-width: 99%;
+}
+
+.tg {
+  border: none;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.tg td {
+  border-style: solid;
+  border-width: 0px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  border-style: solid;
+  border-width: 0px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-wp8o {
+  border-color: #000000;
+  text-align: center;
+  vertical-align: top;
+}
+
+.tg .tg-73oq {
+  border-color: #000000;
+  text-align: left;
+  vertical-align: top;
+}
