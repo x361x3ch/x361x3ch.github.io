@@ -22,8 +22,7 @@ Herkes için geçerli olduğunu iddia etmiyorum. Ama bugün gördüğüm resmi b
 [](https://twitter.com/turkertoker/status/1613944082866343936)
 
 |:-----:|:---:|  
-| ![](https://pbs.twimg.com/profile_images/1598456574040752128/GMPJdQA9_bigger.jpg) | Türker Toker  
-[@turkertoker](https://twitter.com/turkertoker) |
+| ![](https://pbs.twimg.com/profile_images/1598456574040752128/GMPJdQA9_bigger.jpg) | Türker Toker <br/> [@turkertoker](https://twitter.com/turkertoker) |
 
 Az daha okuyup olaydın. Ne ağlıyon 😂
 
