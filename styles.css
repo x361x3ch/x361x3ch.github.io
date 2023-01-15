@@ -54,7 +54,7 @@ img {
 table, tg, td, th {
   font-family: "Quicksand", sans-serif;
   color: white;
-  border: 0.1px solid #272b31;
+  border: 0px solid;
   background-color: #3E4043;
   max-width:90%;
   margin-left:5%;
