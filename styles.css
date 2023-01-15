@@ -51,14 +51,18 @@ img {
   max-width: 99%;
 }
 
-tg {
-  border: none;
-  border-collapse: collapse;
-  border-spacing: 0;
+table {
   background-color: #3E4043;
   width:90%;
   margin-left:5%;
   margin-right:5;
+}
+
+
+tg {
+  border: none;
+  border-collapse: collapse;
+  border-spacing: 0px;
 }
 
 td {
