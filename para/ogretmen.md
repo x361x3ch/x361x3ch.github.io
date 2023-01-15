@@ -37,7 +37,7 @@ Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğ
 [](https://twitter.com/talhabektas/status/1613968188907159552)
 
 |:-----:|:-----:|  
-| ![](https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg) | Talha Bektaş [@talhabektas](https://twitter.com/talhabektas)|
+| ![](https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg) | Talha Bektaş <br/> [@talhabektas](https://twitter.com/talhabektas)|
 
 Hocam, istisnai olarak alınabilir. Ancak ve ancak döner sermaye varsa ve çok yüksek bir ciro yaptıysa olur. Ancak, çok yüksek ciro yapabilmesi için ilgili öğretmenin ders saatleri dışında, cumartesi pazar dahil fiilen ciddi bir çalışma yapması gerek. Ayrıca, bu bir üretimdir  ve serbest piyasa koşulları geçerlidir. Yani üretimin kalitesinden veya "şirketin" vergi ödemesinden vs sorumludur, her türlü olumsuzlukta cezai yükümlülüğü vardır.  
 
