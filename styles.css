@@ -12,14 +12,21 @@ p {
 }
 
 p.baslik {
+  text-align: center;
+  font-size: 3em;
   line-height: 0.8;
   font-family: "Poppins", sans-serif;
-  text-align: center;
   font-weight: 200;
-  font-size: 32px;
   text-transform: capitalize;
   margin-top: 10%;
   margin-bottom: 10%;
+}
+
+p.yanbaslik {
+  line-height: 0.8;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  text-transform: capitalize;
 }
 
 p.kaynak {
@@ -62,7 +69,7 @@ table, tg, td, th {
 }
 	
 hr {
-  background-color: #f4f8fb;
+  background-color: #3E4043;
   border: none;
   width: 90%;
   height: 5px;
