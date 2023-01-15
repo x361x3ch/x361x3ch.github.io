@@ -52,6 +52,7 @@ img {
 }
 
 table {
+  border: none;
   background-color: #3E4043;
   max-width:90%;
   margin-left:5%;
