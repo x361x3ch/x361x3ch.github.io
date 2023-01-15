@@ -69,7 +69,7 @@ table, tg, td {
 }
 
 th {
-  border-top: none;
+  border-top: none; !important;
 }
 	
 hr {
