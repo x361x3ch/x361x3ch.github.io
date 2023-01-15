@@ -51,13 +51,13 @@ img {
   max-width: 99%;
 }
 
-.tg {
+tg {
   border: none;
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-.tg td {
+td {
   border-style: solid;
   border-width: 0px;
   font-family: Arial, sans-serif;
@@ -67,7 +67,7 @@ img {
   word-break: normal;
 }
 
-.tg th {
+th {
   border-style: solid;
   border-width: 0px;
   font-family: Arial, sans-serif;
@@ -76,16 +76,4 @@ img {
   overflow: hidden;
   padding: 10px 5px;
   word-break: normal;
-}
-
-.tg .tg-wp8o {
-  border-color: #000000;
-  text-align: center;
-  vertical-align: top;
-}
-
-.tg .tg-73oq {
-  border-color: #000000;
-  text-align: left;
-  vertical-align: top;
 }
