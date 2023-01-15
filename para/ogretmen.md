@@ -73,7 +73,7 @@ meslek lisesinde teknik öğretmenim yok öyle birşey hocam
 [](https://twitter.com/karakayamusa/status/1613970195155910673)
 
 |:-----:|:-----:|  
-| ![<img src="https://pbs.twimg.com/profile_images/682533991686254592/LwzCP28K.jpg" width="10"/>](https://pbs.twimg.com/profile_images/682533991686254592/LwzCP28K.jpg) | Musa Karakay <br/> [@karakayamusa](https://twitter.com/karakayamusa) |
+| ![](https://pbs.twimg.com/profile_images/682533991686254592/LwzCP28K.jpg){:height="36px" width="36px"} | Musa Karakay <br/> [@karakayamusa](https://twitter.com/karakayamusa) |
 
 Bordroyu paylaşır mısınız?
 
