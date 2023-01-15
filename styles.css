@@ -58,18 +58,21 @@ img {
   max-width: 99%;
 }
 
-table, tg, td {
-  font-family: "Quicksand", sans-serif;
-  color: white;
-  border: 0px solid white !important;
-  background-color: #3E4043;
-  max-width:90%;
-  margin-left: auto;
-  margin-right: auto;
+table {
+  border-collapse: collapse;
+  border-style: hidden;
 }
 
 th {
-  border-top: none; !important;
+  background-color: #FFCC00;
+  color: #0033FF;
+  border: 0px solid black;
+}
+
+td {
+  background-color: #2A87FF;
+  color: white;
+  border: 0px solid black;
 }
 	
 hr {
