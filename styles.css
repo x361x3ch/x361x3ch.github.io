@@ -64,14 +64,17 @@ table {
   margin-left:auto;
   margin-right:auto;
 }
+
 tr {
   background-color: #3E4043;
 }
+
 td {
   color: pink;
   border: dotted;
   padding: 15px 8px 15px 8px;
 }
+
 th {
   color: #272b31;
   border: dotted;
