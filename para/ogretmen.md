@@ -14,9 +14,15 @@
 
 [](https://twitter.com/asalihsimsek/status/1613963517534818304)
 
-|:-----:|:-----:|  
-|  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD.jpg){:width="36px"} | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |
-
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 11.1111%;"><img src="https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg" alt="" /></td>
+<td style="width: 11.1111%;">Dr. Ahmet<br />Salih Şimşek<br /><a href="https://twitter.com/asalihsimsek">@asalihsimsek</a></td>
+<td style="width: 11.1111%;"></td>
+</tr>
+</tbody>
+</table>
 Herkes için geçerli olduğunu iddia etmiyorum. Ama bugün gördüğüm resmi bordro bunun mümkün olduğunu açıkça gösterdi. En azından Turizm meslek lisesindeki aşçılık ile ilgili bir branş için durum böyleydi
 
 [](https://twitter.com/turkertoker/status/1613944082866343936)
