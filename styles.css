@@ -59,19 +59,19 @@ img {
 }
 
 table {
-  border: none;
+  border: dotted;
 }
 tr {
-  background: linear-gradient(to bottom, #f0eaea, #3E4043);
+  background-color: #3E4043;
 }
 td {
-  color: white;
-  border: none;
+  color: pink;
+  border: dotted;
  padding: 15px 8px 15px 8px;
 }
 th {
   color: #272b31;
-  border: none;
+  border: dotted;
 }
 	
 hr {
