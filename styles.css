@@ -67,6 +67,8 @@ hr {
 
 table, td, th, tr {
   border-top: 10px solid #3E4043;
+  border-right: 10px solid #3E4043;
+  border-left: 10px solid #3E4043; 
   border-radius: 10px;
   background-color: #3E4043;
   width: 70%;
