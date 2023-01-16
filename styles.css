@@ -57,14 +57,6 @@ a {
 img {
   max-width: 99%;
 }
-
-table {
-  border: solid 0.01px #272b31; !important
-  bgcolor: #272b31; !important
-  width: 90%;
-  margin-left:5%;
-  margin-right:5%;
-}
 	
 hr {
   background-color: #3E4043;
