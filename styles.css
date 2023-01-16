@@ -59,25 +59,25 @@ img {
 }
 
 table {
-  border: solid 0.1px #272b31;
+  border: solid 0.1px #272b31; !important
   width: 90%;
   margin-left:5%;
   margin-right:5%;
 }
 
 tr {
-  background-color: #272B31;
+  background-color: #272B31; !important
 }
 
 td {
-  color: #272b31;
-  border: solid 0.01px #272b31;
+  color: #272b31; !important
+  border: solid 0.01px #272b31; !important
   padding: 15px 8px 15px 8px;
 }
 
 th {
   color: #272b31;
-  border: solid 0.01px #272B31;
+  border: solid 0.01px #272B31; !important
 }
 	
 hr {
