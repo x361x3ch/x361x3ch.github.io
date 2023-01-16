@@ -74,8 +74,9 @@ hr {
 }
 
 table, th, td {
-  max-width:90%;
-  margin: auto;
+  width:90%;
+  margin-left: 5%;
+  margin-right: 5%;
   border: 0.1px solid shark;
   border-collapse:collapse;
   text-align:center;
@@ -85,5 +86,4 @@ table, th, td {
   font-color: snow;
   font-family: Quicksand;
   font-weight: 200;
-  margin-top:100px;
 }
