@@ -65,12 +65,15 @@ hr {
   height: 5px;
 }
 
-table, td, th, tr {
+table, td, tr {
+  border-radius: 10px;
+  background-color: #3E4043;
+}
+
+tr {
   border-top: 15px solid #3E4043;
   border-bottom: 15px solid #3E4043;
   border-right: 10px solid #3E4043;
   border-left: 10px solid #3E4043; 
-  border-radius: 10px;
-  background-color: #3E4043;
   font-family: "Quicksand", sans-serif;
 }
