@@ -76,7 +76,7 @@ hr {
 table, th, td {
   max-width:90%;
   margin: auto;
-  border: 0.1px solid white;
+  border: 0.1px solid gray;
   border-collapse:collapse;
   text-align:center;
   table-layout: fixed;
