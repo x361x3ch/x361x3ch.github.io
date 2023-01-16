@@ -59,20 +59,22 @@ img {
 }
 
 table {
-  border-collapse: collapse;
-  border-style: hidden;
+border: none;
+/* box-shadow: 9px 9px 7px grey; */
 }
-
-th {
-  background-color: #FFCC00;
-  color: #272b31;
-  border: 0px solid black;
+tr {
+  background: linear-gradient(to right, #0033FF, #9999FF);
+  transform: skewX(10deg);
 }
-
 td {
-  background-color: #2A87FF;
-  color: #272b31;
-  border: 0px solid black;
+  color: white;
+  padding: 13px 7px 13px 7px;
+  transform: skewX(-10deg);
+}
+th {
+  color: #FFE16B;
+  font-size: 17px;
+  transform: skewX(-10deg);
 }
 	
 hr {
