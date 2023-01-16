@@ -59,10 +59,10 @@ img {
 }
 
 table {
-  border: solid 0.1px #3E4043;
+  border: solid 0.1px #272b31;
   width: 90%;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:5%;
+  margin-right:5%;
 }
 
 tr {
@@ -71,7 +71,7 @@ tr {
 
 td {
   color: pink;
-  border: solid 0.1px #3E4043;
+  border: solid 0.01px #272b31;
   padding: 15px 8px 15px 8px;
 }
 
