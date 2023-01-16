@@ -76,11 +76,11 @@ hr {
 table, th, td {
   max-width:90%;
   margin: auto;
-  border: 0.1px solid gray;
+  border: 0.1px solid shark;
   border-collapse:collapse;
   text-align:center;
   table-layout: fixed;
-  background: #272B31;
+  background: shark;
   color: white;
   margin-top:100px;
 }
