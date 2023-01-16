@@ -77,6 +77,7 @@ td, th {
 }
 tbody td {
   background-color: #3E4043;
+  border: 1px solid #3E4043;
   font-size: 13px;
   font-color: #FFFFFF;
 }
