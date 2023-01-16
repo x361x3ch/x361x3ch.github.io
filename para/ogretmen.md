@@ -1,6 +1,6 @@
 <link href="../styles.css" rel="stylesheet"> 
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet Salih Şimşek @asalihsimsek | 
 
@@ -13,7 +13,7 @@
 
 [](https://twitter.com/asalihsimsek/status/1613963517534818304)
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
 
@@ -21,7 +21,7 @@ Herkes için geçerli olduğunu iddia etmiyorum. Ama bugün gördüğüm resmi b
 
 [](https://twitter.com/turkertoker/status/1613944082866343936)
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/1598456574040752128/GMPJdQA9_bigger.jpg) | Türker Toker <br/> [@turkertoker](https://twitter.com/turkertoker) |  
 
@@ -29,7 +29,7 @@ Az daha okuyup olaydın. Ne ağlıyon 😂
 
 [](https://twitter.com/asalihsimsek/status/1613963770782515201)
  
-  | Profil Fotoğrafı | Ad Soyad Nick |  
+ 
   |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet Salih Şimşek @asalihsimsek | 
 
@@ -37,7 +37,7 @@ Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğ
 
 [](https://twitter.com/talhabektas/status/1613968188907159552)
   
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/1541806763535749120/VfxxbLgF_bigger.jpg) | Talha Bektaş <br/> [@talhabektas](https://twitter.com/talhabektas) |  
 
@@ -47,7 +47,7 @@ Sözün özü, öğretmenlik dışında ek iş yapmış kadar yorulur ve karşı
 
 [](https://twitter.com/asalihsimsek/status/1613969772852412436)
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
 
@@ -55,7 +55,7 @@ Hocam aynı üretim üniversite de yapılıyor örneğin ziraat fakültesi kefir
 
 [](https://twitter.com/asalihsimsek/status/1613990417447456787)
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |    
 
@@ -63,7 +63,7 @@ Buradan saldıran MEB çalışanlarına tek tek cevap vermek isterdim ama neyi s
 
 [](https://twitter.com/HasanHseyinCce/status/1613953521681928208)
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/997784439710257158/Fge6yHBf_bigger.jpg) | Hasan Hüseyin <br/> [@HasanHseyinCce](https://twitter.com/HasanHseyinCce) |  
   
@@ -71,7 +71,7 @@ meslek lisesinde teknik öğretmenim yok öyle birşey hocam
 
 [](https://twitter.com/Glistan23563968/status/1613957219019522056)
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/1304141550419693570/ORckr33Y_bigger.jpg) | Gülistan <br/> [@Glistan23563968](https://twitter.com/Glistan23563968) |  
   
@@ -79,7 +79,7 @@ meslek lisesinde teknik öğretmenim yok öyle birşey hocam
 
 [](https://twitter.com/karakayamusa/status/1613970195155910673)
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/682533991686254592/LwzCP28K_bigger.jpg) | Musa Karakay <br/> [@karakayamusa](https://twitter.com/karakayamusa) |  
   
@@ -87,7 +87,7 @@ Bordroyu paylaşır mısınız?
 
 [](https://twitter.com/recepulger06/status/1613974430354374665)
 
- | Profil Fotoğrafı | Ad Soyad Nick |  
+
  |:-------------:|:--------------:|
  | ![](https://pbs.twimg.com/profile_images/1592838080897187841/YLlSCfgM_bigger.jpg) | Recep Güler <br/> [@recepulger06](https://twitter.com/recepulger06) |  
 
