@@ -83,5 +83,7 @@ table, th, td {
   background: shark;
   color: shark;
   font-color: snow;
+  font-family: Quicksand;
+  font-weight: 200;
   margin-top:100px;
 }
