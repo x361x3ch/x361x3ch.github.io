@@ -71,14 +71,14 @@ tr {
 }
 
 td {
-  color: #272b31; !important
+  color: #E8E8E8; !important
   border: solid 0.01px #272b31; !important
   bgcolor: #272b31;
   padding: 15px 8px 15px 8px;
 }
 
 th {
-  color: #272b31;
+  color: #E8E8E8;
   bgcolor: #272b31;
   border: solid 0.01px #272B31; !important
 }
