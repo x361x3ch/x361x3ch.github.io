@@ -60,7 +60,7 @@ img {
 
 table {
   border: solid 0.01px #272b31; !important
-  background-color: #272B31; !important
+  bgcolor: #272b31; !important
   width: 90%;
   margin-left:5%;
   margin-right:5%;
@@ -73,11 +73,13 @@ tr {
 td {
   color: #272b31; !important
   border: solid 0.01px #272b31; !important
+  bgcolor: #272b31;
   padding: 15px 8px 15px 8px;
 }
 
 th {
   color: #272b31;
+  bgcolor: #272b31;
   border: solid 0.01px #272B31; !important
 }
 	
