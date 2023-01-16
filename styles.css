@@ -81,6 +81,7 @@ table, th, td {
   text-align:center;
   table-layout: fixed;
   background: shark;
-  color: white;
+  color: shark;
+  font-color: snow;
   margin-top:100px;
 }
