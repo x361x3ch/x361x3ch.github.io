@@ -67,6 +67,7 @@ hr {
 
 table {
   border: 1px solid #3E4043;
+  radius: 2%;
   background-color: #3E4043;
   width: 90%;
   text-align: center;
@@ -75,6 +76,7 @@ td, th {
   border: 1px solid #3E4043;
 }
 tbody td {
+  background-color: #3E4043;
   font-size: 13px;
-  color: #FFFFFF;
+  font-color: #FFFFFF;
 }
