@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  color: #f0eaea;
+  color: #f0eaea; !important
   font-family: "Quicksand", sans-serif;
   margin-right: 5%;
   margin-left: 5%;
@@ -66,11 +66,11 @@ hr {
 }
 
 table, td, th, tr {
-  border-top: 10px solid #3E4043;
+  border-top: 15px solid #3E4043;
+  border-bottom: 15px solid #3E4043;
   border-right: 10px solid #3E4043;
   border-left: 10px solid #3E4043; 
   border-radius: 10px;
   background-color: #3E4043;
-  font-color: #e8e8e8;
   font-family: "Quicksand", sans-serif;
 }
