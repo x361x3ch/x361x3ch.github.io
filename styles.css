@@ -66,10 +66,12 @@ hr {
 }
 
 table, td, th, tr {
-  border: 1px solid #3E4043;
+  border: 0.1px solid #3E4043;
+  border-radius: 1%;
   background-color: #3E4043;
   width: 90%;
   margin-left:5%;
   margin-right:5%;
   font-color: #e8e8e8;
+  font-family: "Quicksand", sans-serif;
 }
