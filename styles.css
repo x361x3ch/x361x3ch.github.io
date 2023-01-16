@@ -59,22 +59,19 @@ img {
 }
 
 table {
-border: none;
-/* box-shadow: 9px 9px 7px grey; */
+  border: none;
 }
 tr {
-  background: linear-gradient(to right, #0033FF, #9999FF);
-  transform: skewX(10deg);
+  background: linear-gradient(to right, #0033FF, #3399FF);
 }
 td {
   color: white;
-  padding: 13px 7px 13px 7px;
-  transform: skewX(-10deg);
+  border: none;
+ padding: 15px 8px 15px 8px;
 }
 th {
-  color: #FFE16B;
-  font-size: 17px;
-  transform: skewX(-10deg);
+  color: #272b31;
+  border: none;
 }
 	
 hr {
