@@ -71,7 +71,6 @@ table, th, td {
   margin-right: 5%;
   border: 0.1px solid shark;
   border-collapse:collapse;
-  text-align:center;
   table-layout: fixed;
   background: shark;
   color: shark;
