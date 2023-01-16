@@ -3,8 +3,9 @@
 <center><p class="fash" style="font-size:3em"> Öğretmen Maaşları </p></center>
 
 
-|  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
-|---------|------------------|  
+| ![https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg] | Dr. Ahmet Salih Şimşek @asalihsimsek |
+|---------|--------------------------------------|
+
 
 🗨️ Az önce meslek lisesi teknik branş öğretmeninin ekders (280 saate kadar çıkabiliyormuş) kurs yurt döner sermaye derken 40-50 binTL maaş alabildiğini öğrendim.   
 
@@ -32,8 +33,9 @@ Az daha okuyup olaydın. Ne ağlıyon 😂
 [](https://twitter.com/asalihsimsek/status/1613963770782515201)
  
  
-|  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
-|---------|------------------|  
+| ![https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg] | Dr. Ahmet Salih Şimşek @asalihsimsek |
+|---------|--------------------------------------|
+
 
 Hiçbir başarı cezasız kalmıyor daha çok okumanın daha çok sefalet olduğu harika bir sistem 😅
 
