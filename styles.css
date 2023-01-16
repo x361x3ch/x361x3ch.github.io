@@ -62,7 +62,7 @@ table {
   border: none;
 }
 tr {
-  background: linear-gradient(to right, #0033FF, #3399FF);
+  background: linear-gradient(to bottom, #f0eaea, #3E4043);
 }
 td {
   color: white;
