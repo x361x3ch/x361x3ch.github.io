@@ -65,17 +65,11 @@ hr {
   height: 5px;
 }
 
-table {
+table, td, th, tr {
   border: 1px solid #3E4043;
   background-color: #3E4043;
   width: 90%;
   margin-left:5%;
   margin-right:5%;
-}
-td, th {
-  border: 1px solid #3E4043;
-}
-tbody td {
-  border: 1px solid #3E4043;
   font-color: #e8e8e8;
 }
