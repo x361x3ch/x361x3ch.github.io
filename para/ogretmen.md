@@ -1,4 +1,4 @@
-<link href="../styles.css" rel="stylesheet"> 
+<link href="styles.css" rel="stylesheet"> 
 
 <center><p class="fash" style="font-size:3em"> Öğretmen Maaşları </p></center>
 
