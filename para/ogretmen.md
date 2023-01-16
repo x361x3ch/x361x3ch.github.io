@@ -2,7 +2,7 @@
 
 
  |:-------------:|:--------------:|
- | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet Salih Şimşek @asalihsimsek | 
+ | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
 
 🗨️ Az önce meslek lisesi teknik branş öğretmeninin ekders (280 saate kadar çıkabiliyormuş) kurs yurt döner sermaye derken 40-50 binTL maaş alabildiğini öğrendim.   
 
@@ -15,7 +15,7 @@
 
 
  |:-------------:|:--------------:|
- | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
+ | ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
 
 Herkes için geçerli olduğunu iddia etmiyorum. Ama bugün gördüğüm resmi bordro bunun mümkün olduğunu açıkça gösterdi. En azından Turizm meslek lisesindeki aşçılık ile ilgili bir branş için durum böyleydi
 
@@ -49,7 +49,7 @@ Sözün özü, öğretmenlik dışında ek iş yapmış kadar yorulur ve karşı
 
 
  |:-------------:|:--------------:|
- |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
+ |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
 
 Hocam aynı üretim üniversite de yapılıyor örneğin ziraat fakültesi kefir üretiyor ama böyle bir ücret alamıyor. Üretim yapılması ile derdim olamaz. Mesele MEB deki kara delikler. Eşit işe eşit ücret ve niteliğe uygun ücretlendirme olmaması. Yoksa başkasının gelirinde gözümüz yok
 
@@ -57,7 +57,7 @@ Hocam aynı üretim üniversite de yapılıyor örneğin ziraat fakültesi kefir
 
 
  |:-------------:|:--------------:|
- |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |    
+ |  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |    
 
 Buradan saldıran MEB çalışanlarına tek tek cevap vermek isterdim ama neyi savunduklarını ya da ne karşı geldiklerini bile bilmiyorlar. Eğitim kaynaklarının nasıl israf edildiği ve öğretmenler arasında nasıl adaletsizliğin olduğunu herkes biliyor.
 
