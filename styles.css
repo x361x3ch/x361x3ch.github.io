@@ -65,16 +65,16 @@ hr {
   height: 5px;
 }
 
-table, th, td {
-  width:90%;
-  margin-left: 5%;
-  margin-right: 5%;
-  border: 0.1px solid shark;
-  border-collapse:collapse;
-  table-layout: fixed;
-  background: shark;
-  color: shark;
-  font-color: snow;
-  font-family: Quicksand;
-  font-weight: 200;
+table {
+  border: 1px solid #3E4043;
+  background-color: #3E4043;
+  width: 90%;
+  text-align: center;
+}
+td, th {
+  border: 1px solid #3E4043;
+}
+tbody td {
+  font-size: 13px;
+  color: #FFFFFF;
 }
