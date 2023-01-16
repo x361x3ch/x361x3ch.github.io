@@ -65,27 +65,22 @@ table {
   margin-left:5%;
   margin-right:5%;
 }
-
-tr {
-  background-color: #272B31; !important
-}
-
-td {
-  color: #E8E8E8; !important
-  border: solid 0.01px #272b31; !important
-  bgcolor: #272b31;
-  padding: 15px 8px 15px 8px;
-}
-
-th {
-  color: #E8E8E8;
-  bgcolor: #272b31;
-  border: solid 0.01px #272B31; !important
-}
 	
 hr {
   background-color: #3E4043;
   border: none;
   width: 90%;
   height: 5px;
+}
+
+table, th, td {
+  width: 80%:
+  margin: auto;
+  border: 1px solid white;
+  border-collapse:collapse;
+  text-align:center;
+  table-layout: fixed;
+  background: #272B31;
+  color: white;
+  margin-top:100px;
 }
