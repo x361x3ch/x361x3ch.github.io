@@ -17,8 +17,8 @@
 [](https://twitter.com/asalihsimsek/status/1613963517534818304)
 
 
-|  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
-|---------|------------------|  
+| ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg) | Dr. Ahmet <br/> Salih  Şimşek <br/> [@asalihsimsek](https://twitter.com/asalihsimsek) |  
+| --------- | ------------------ |  
 
 Herkes için geçerli olduğunu iddia etmiyorum. Ama bugün gördüğüm resmi bordro bunun mümkün olduğunu açıkça gösterdi. En azından Turizm meslek lisesindeki aşçılık ile ilgili bir branş için durum böyleydi
 
