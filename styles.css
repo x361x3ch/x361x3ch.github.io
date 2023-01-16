@@ -60,6 +60,9 @@ img {
 
 table {
   border: dotted;
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
 }
 tr {
   background-color: #3E4043;
@@ -67,7 +70,7 @@ tr {
 td {
   color: pink;
   border: dotted;
- padding: 15px 8px 15px 8px;
+  padding: 15px 8px 15px 8px;
 }
 th {
   color: #272b31;
