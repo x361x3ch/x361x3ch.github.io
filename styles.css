@@ -70,7 +70,9 @@ table {
   background-color: #3E4043;
 }
 
-td, tr {
+td,
+
+tr {
   border-top: 25px solid #3E4043;
   border-bottom: 15px solid #3E4043;
   border-right: 10px solid #3E4043;
