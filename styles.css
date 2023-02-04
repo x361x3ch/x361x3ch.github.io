@@ -1,86 +1,83 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Pirata+One&family=Quicksand:wght@300;400;500;600;700&family=Kavivanar&display=swap");
 
 body {
-  background-color: #F4E3C7;
-  color: #170503;
-  font-family: "Quicksand", sans-serif;
+  background-image: url('https://images2.imgbox.com/e7/f1/vwJFiYfQ_o.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: #402A1F;
+  font-family: "Kavivanar", sans-serif;
   margin-right: 5%;
   margin-left: 5%; 
+  line-height: 1;
 }
 
 code {
-  background-color: #86AD41;
-  color: #E8E8E8;
+  /*background-color: #86AD41;*/
+  color: #402A1F;
   font-family: "Courier New", sans-serif;
   font-size: 1.2em;
   line-break: normal;
 } 
 
-details, summary {
-  color: #E8E8E8;
-  font-family: "Quicksand", sans-serif;
-  margin-left: 5px;
-  margin-bottom: 0.1px;
+details > summary {
+  color: #402A1F;
+  font-family: "Pirata One", sans-serif;
+  font-size: 1.5em;
+  font-weight: 500;
+  padding: -5px;
+  border: none;
+  cursor: pointer;
 }
 
-p.baslik {
+details > p {
+  color: #402A1F;
+  padding: 4px;
+  margin: 0;
+  font-family: "Kavivanar", sans-serif;
+}
+
+.baslik {
   text-align: center;
   font-size: 3em;
   line-height: 0.9;
-  font-family: "Poppins", sans-serif;
+  font-family: "Pirata One", sans-serif;
   font-weight: 200;
   text-transform: capitalize;
   margin-top: 10%;
   margin-bottom: 10%;
 }
 
-p.yanbaslik {
-  line-height: 0.8;
-  font-family: "Poppins", sans-serif;
+.yanbaslik {
+  line-height: 1;
+  font-family: "Pirata One", sans-serif;
   font-weight: 200;
   text-transform: capitalize;
 }
 
-p.kaynak {
+.kaynak {
   background-color: #86AD41;
   line-height: 0.7;
   text-align: right;
-  color: #e8e8e8;
+  color: #170503;
   text-decoration: none;
-  font-family: "Poppins", sans-serif;
+  font-family: "Kavivanar", sans-serif;
   font-weight: 200;
 }
 
 a {
-  color: #272b31;
+  color: #402A1F;
   text-decoration: none;
-  font-family: "Poppins", sans-serif;
-  font-weight: 900;
+  font-family: "Pirata One", sans-serif;
+  /*font-weight: 900;*/
 }
 
 img {
   max-width: 99%;
 }
-
-table {
-  border-collapse: collapse;
-  border-style: hidden;
-}
-
-th {
-  background-color: #FFCC00;
-  color: #0033FF;
-  border: 0px solid black;
-}
-
-td {
-  background-color: #2A87FF;
-  color: white;
-  border: 0px solid black;
-}
 	
 hr {
-  background-color: #170503;
+  background-color: #402A1F;
   border: none;
   height: 5px;
   margin-left: 0%;
@@ -116,16 +113,22 @@ li::before {
 
 li {
   color: #262930; 
-  font-family: "Quicksand", sans-serif;
+  font-family: "Kavivanar", sans-serif;
   margin-top: 0%;
   margin-left: -12%;
   line-height: 1;
 }
 
 .dark-mode {
-  background-color: #272b31;
-  color: #f0eaea; !important
+  background-image: none;
+  background-color: #272b31; !important
+  color: #f0eaea;
 }
+
+.dark-mode p {
+	font-family: Quicksand;
+	color: #f0eaea;
+	}
 
 .dark-mode code {
   background-color: #86AD41;
@@ -136,7 +139,7 @@ li {
 } 
 
 .dark-mode details, summary {
-  color: #3E4043;
+  color: #E8E8E8;
   font-family: "Quicksand", sans-serif;
   margin-left: 5px;
   margin-bottom: 0.1px;
@@ -191,4 +194,21 @@ li {
   margin-top: 0%;
   margin-left: -12%;
   line-height: 1;
+}
+
+.dark-mode details > summary {
+  color: #E8E8E8;
+  font-family: "Poppins", sans-serif;
+  font-size: 1em;
+  font-weight: 500;
+  padding: -5%;
+  border: none;
+  cursor: pointer;
+}
+
+.dark-mode details > p {
+  color: #E8E8E8;
+  padding: 4px;
+  margin: 0;
+  font-family: "Quicksand", sans-serif;
 }
