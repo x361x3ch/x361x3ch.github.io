@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Pirata+One&family=Quicksand:wght@300;400;500;600;700&family=Kavivanar&display=swap");
-
+  
 body {
   background-image: url('https://images2.imgbox.com/e7/f1/vwJFiYfQ_o.jpg');
   background-repeat: no-repeat;
@@ -8,13 +8,13 @@ body {
   color: #402A1F;
   font-family: "Kavivanar", sans-serif;
   margin-right: 5%;
-  margin-left: 5%; 
-  line-height: 1;
+  margin-left: 5%;
+   line-height: 1;
 }
 
 code {
-  /*background-color: #86AD41;*/
-  color: #402A1F;
+  /*background-color: #86AD41;
+  */color: #402A1F;
   font-family: "Courier New", sans-serif;
   font-size: 1.2em;
   line-break: normal;
@@ -69,7 +69,8 @@ a {
   color: #402A1F;
   text-decoration: none;
   font-family: "Pirata One", sans-serif;
-  /*font-weight: 900;*/
+  /*font-weight: 900;
+  */
 }
 
 img {
@@ -99,24 +100,26 @@ button.lamba {
   /*float: pull-right;*/
 }
 
-
-ul { list-style: none; } /* Remove default bullets */
+ul {
+   list-style: none;
+   } /* Remove default bullets */
 
 li::before {
-    content: "\❖ "; /* Unicode bullet symbol */
-    /*color: pink;*/  /* Bullet color */
+    content: "\❖ ";
+   /* Unicode bullet symbol */  /*color: pink;
+  */  /* Bullet color */
 	
-	/* Optional tweaks */
-    /*font-weight: bold;*/
-    /*padding-right: 10px;*/
+	/* Optional tweaks */  /*font-weight: bold;
+  */  /*padding-right: 10px;
+  */
 }
 
 li {
-  color: #262930; 
-  font-family: "Kavivanar", sans-serif;
+  color: #262930;
+   font-family: "Kavivanar", sans-serif;
   margin-top: 0%;
   margin-left: -12%;
-  line-height: 1;
+  line-height: 1; 
 }
 
 .profile-pic {
@@ -129,7 +132,7 @@ li {
   margin-bottom: 0.1px;
   font-size:2em;
   padding: 1px;
-} 
+  } 
 
 .dark-mode {
   background-image: none;
@@ -138,9 +141,9 @@ li {
 }
 
 .dark-mode p {
-	font-family: Quicksand;
-	color: #f0eaea;
-	}
+  font-family: Quicksand;
+  color: #f0eaea;
+}
 
 .dark-mode code {
   background-color: #86AD41;
@@ -201,8 +204,8 @@ li {
 }
 
 .dark-mode li {
-  color: #E8E8E8; 
-  font-family: "Quicksand", sans-serif;
+  color: #E8E8E8;
+   font-family: "Quicksand", sans-serif;
   margin-top: 0%;
   margin-left: -12%;
   line-height: 1;
@@ -226,6 +229,6 @@ li {
 }
 
 .dark-mode .profile-info {
-			margin-left: 10%;
-			font-size: 12px;
-		}
+  margin-left: 10%;
+  font-size: 12px;
+}
