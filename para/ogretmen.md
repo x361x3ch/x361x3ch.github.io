@@ -2,7 +2,7 @@
 
  ![](https://pbs.twimg.com/profile_images/1577979975180894209/Y7J7MloD_bigger.jpg#left) 
 
-Dr. Ahmet Salih  Şimşek [@asalihsimsek](https://twitter.com/asalihsimsek){:.baslik} 
+Dr. Ahmet Salih  Şimşek{:.baslik} [@asalihsimsek](https://twitter.com/asalihsimsek){:.yanbaslik} 
 
 🗨️ Az önce meslek lisesi teknik branş öğretmeninin ekders (280 saate kadar çıkabiliyormuş) kurs yurt döner sermaye derken 40-50 binTL maaş alabildiğini öğrendim.   
 
