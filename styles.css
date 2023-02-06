@@ -46,6 +46,8 @@ details > p {
   text-transform: capitalize;
   margin-top: 10%;
   margin-bottom: 10%;
+  display: flex;
+  align-items: center;
 }
 
 .yanbaslik {
@@ -53,6 +55,8 @@ details > p {
   font-family: "Pirata One", sans-serif;
   font-weight: 200;
   text-transform: capitalize;
+  display: flex;
+  align-items: center;
 }
 
 .kaynak {
