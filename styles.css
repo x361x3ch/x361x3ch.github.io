@@ -119,6 +119,18 @@ li {
   line-height: 1;
 }
 
+.profile-pic {
+  display: flex;
+  align-items: center;
+}
+
+.profile-info {
+  margin-left: 10%;
+  margin-bottom: 0.1px;
+  font-size:2em;
+  padding: 1px;
+} 
+
 .dark-mode {
   background-image: none;
   background-color: #272b31; !important
@@ -212,3 +224,8 @@ li {
   margin: 0;
   font-family: "Quicksand", sans-serif;
 }
+
+.dark-mode .profile-info {
+			margin-left: 10%;
+			font-size: 12px;
+		}
