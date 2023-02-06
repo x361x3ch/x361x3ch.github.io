@@ -231,5 +231,9 @@ li {
 .dark-mode .profile-info {
   margin-left: 10%;
   font-size:1.5em;
+  font-weight: 100;
+}
+
+.dark-mode .profile-info > a {
   font-weight: 200;
 }
