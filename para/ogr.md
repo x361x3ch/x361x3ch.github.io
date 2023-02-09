@@ -10,6 +10,9 @@ body {
 	background-color: #21242B; /* Koyu */
 	color: #FEFDF9; /* Beyaz */
 	margin: 3% 3% 3% 3%;
+	}
+
+p {
 	font-family: Poppins;
 	}
 	
