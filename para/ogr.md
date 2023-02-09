@@ -9,7 +9,7 @@
 body {
 	background-color: #21242B; /* Koyu */
 	color: #FEFDF9; /* Beyaz */
-	margin: 5% 5% 5% 5%;
+	margin: 3% 3% 3% 3%;
 	font-family: Poppins;
 	}
 	
@@ -45,7 +45,7 @@ img[src*="#left"] {
   align-items: center; 
   margin-left: auto;
   margin-right: auto; 
-  border: none;
+  border: 0.1px;
   border-radius: 100px;
 }
 
