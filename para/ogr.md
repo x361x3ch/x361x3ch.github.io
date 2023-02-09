@@ -45,6 +45,8 @@ img[src*="#left"] {
   align-items: center; 
   margin-left: auto;
   margin-right: auto; 
+  border: none;
+  border-radius: 100px;
 }
 
 .profile-info {
@@ -56,7 +58,7 @@ img[src*="#left"] {
 	}
 
 p.profile-info { 
-	padding-left: 22%;
+	padding-left: 80px;
 	color: #FEFDF9;
 	margin-bottom: 1px; !important 
 	} 
