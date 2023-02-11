@@ -1,7 +1,7 @@
 <link href="styles.css" rel="stylesheet"> 
 
 
-<p class="fash">JÜPİTER <br/> EVLERDE</p>
+<p class="baslik">JÜPİTER <br/> EVLERDE</p>
 
 <p class="kaynak"> <a  href="https://twitter.com/i/status/1215222905237393409">2020-01-09 13.44</a>	<a href="https://twitter.com/tugceastro">tugceastro</a></p>
 
