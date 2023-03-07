@@ -50,7 +50,7 @@
 
 <right>  
 
-[2022-12-04 10.42](https://twitter.com/kalitelisozluk/status/1599308202281439235)  
+<a href="https://twitter.com/kalitelisozluk/status/1599308202281439235">2022-12-04 10.42</a>  
 
 </right>
 
