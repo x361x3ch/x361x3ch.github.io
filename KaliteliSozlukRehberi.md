@@ -5,7 +5,7 @@
 	}
 	
 	right {
-		text-align: right;
+		float: right;
 	}
 	
 	baslik1 {
@@ -58,32 +58,62 @@
 
 [](https://twitter.com/kalitelisozluk/status/1599308204281692160)
 
-<baslik1> [Vocagarden](http://vocagarden.com) </baslik1>
+<baslik1> 
+
+[Vocagarden](http://vocagarden.com) 
+
+</baslik1>
+
 YDS-YÖKDİL-IELTS-SAT için seviyenize göre kelimeleri öğrenebileceğiniz harika websitesidir. Kelimeyi videolarla, cümle tamamlamalarla zorla kafanıza sokuyor. Üstelik kelimelerin PDF halini de alabiliyorsunuz.
 
 [](https://twitter.com/kalitelisozluk/status/1599308206861275137)
 
-<baslik1> Vocab Builder </baslik1>
+<baslik1>
+
+Vocab Builder 
+
+</baslik1>
+
 /YDS-YÖKDİL İngilizce Kelime Ezber Gayet başarılı bir YDS uygulamasıdır. Kelimeyi örnek cümlelerle ve görseller yardımıyla öğretiyor. Bilmediğin kelimenin üstüne tıklayınca anlamını görüyorsun. Bu uygulama da zorla öğretir kelimeleri.
 
 [](https://twitter.com/kalitelisozluk/status/1599308208723853312)
 
-<baslik1> Reading Power </baslik1>
+<baslik1> 
+
+Reading Power 
+
+</baslik1>
+
 YDS-YÖKDİL Seviyelere göre metinler bulunuyor. Okuma parçalarından önce kelime çalışmaları yaptırıyor. Metinleri okumaya başlayınca da ister kelime ister cümle çevirilerini görebiliyorsunuz.
 
 [](https://twitter.com/kalitelisozluk/status/1599308210774544385)
 
-<baslik1> [Memrise](http://memrise.com) </baslik1>
+<baslik1>
+
+[Memrise](http://memrise.com)
+
+</baslik1>
+
 Bu uygulamanın diğerlerinden farkı bilimsel yöntemlere göre kelime öğrenmenizi takip etmesidir. Yanlış cevapladığınız kelimeleri daha fazla tekrar yaptırarak öğretiyor.
 
 [](https://twitter.com/kalitelisozluk/status/1599308213387943936)
 
-<baslik1> [Duolingo](http://tr.duolingo.com) </baslik1>
+<baslik1> 
+
+[Duolingo](http://tr.duolingo.com) 
+
+</baslik1>
+
 Kelime öğrenimini farklı test yöntemleri ve aşırı tekrarlarla öğretiyor. Cümle içerisinde kullanımını göstermesi pekiştiriyor.
 
 [](https://twitter.com/kalitelisozluk/status/1599308215640289281)
 
-<baslik1> [Wordup](http://wordupapp.co) </baslik1>
+<baslik1> 
+
+[Wordup](http://wordupapp.co) 
+
+</baslik1>
+
 Vocabulary Seviyenize göre İngilizce kelimeleri İngilizce açıklamalar ve videolar eşliğinde öğrenebileceğiniz uygulamadır.
 
 [](https://twitter.com/kalitelisozluk/status/1599308218135891969)
@@ -92,7 +122,12 @@ Vocabulary Seviyenize göre İngilizce kelimeleri İngilizce açıklamalar ve vi
 
 [](https://twitter.com/kalitelisozluk/status/1599308220350095360)
 
-<baslik1> [Vocabulary](http://vocabulary.com) </baslik1>
+<baslik1> 
+
+[Vocabulary](http://vocabulary.com) 
+
+</baslik1>
+
 Hem sözlük hem de kelime öğrenme uygulaması. Websitesinde aradığınız kelimeyi listeye ekleyerek daha sonra çalışabiliyorsunuz. İngilizce-İngilizce çalışanlar için ideal bir uygulama. Oldukça başarılı.
 
 [](https://twitter.com/kalitelisozluk/status/1599308223269416960)
