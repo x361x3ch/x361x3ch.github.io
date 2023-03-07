@@ -5,7 +5,7 @@
 	}
 	
 	right {
-		float: right;
+		text-align: right;
 	}
 	
 	baslik1 {
@@ -50,7 +50,7 @@
 
 <right>  
 
-<a href="https://twitter.com/kalitelisozluk/status/1599308202281439235">2022-12-04 10.42</a>  
+[2022-12-04 10.42](https://twitter.com/kalitelisozluk/status/1599308202281439235)  
 
 </right>
 
@@ -60,7 +60,7 @@
 
 <baslik1> 
 
-[Vocagarden](http://vocagarden.com) 
+<a href="http://vocagarden.com">Vocagarden</a>
 
 </baslik1>
 
@@ -90,7 +90,7 @@ YDS-YÖKDİL Seviyelere göre metinler bulunuyor. Okuma parçalarından önce ke
 
 <baslik1>
 
-[Memrise](http://memrise.com)
+<a href="http://memrise.com">Memrise</a>
 
 </baslik1>
 
@@ -100,7 +100,7 @@ Bu uygulamanın diğerlerinden farkı bilimsel yöntemlere göre kelime öğrenm
 
 <baslik1> 
 
-[Duolingo](http://tr.duolingo.com) 
+<a href="http://tr.duolingo.com">Duolingo</a>
 
 </baslik1>
 
@@ -110,7 +110,7 @@ Kelime öğrenimini farklı test yöntemleri ve aşırı tekrarlarla öğretiyor
 
 <baslik1> 
 
-[Wordup](http://wordupapp.co) 
+<a href="http://wordupapp.co">Wordup</a>
 
 </baslik1>
 
@@ -124,7 +124,7 @@ Vocabulary Seviyenize göre İngilizce kelimeleri İngilizce açıklamalar ve vi
 
 <baslik1> 
 
-[Vocabulary](http://vocabulary.com) 
+<a href="http://vocabulary.com">Vocabulary</a>
 
 </baslik1>
 
