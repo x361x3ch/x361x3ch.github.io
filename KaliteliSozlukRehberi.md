@@ -52,7 +52,9 @@
 
 <a href="https://twitter.com/kalitelisozluk/status/1599308202281439235">2022-12-04 10.42</a>
 
-</right>  
+</right>
+
+<br/>
 
 <baslik3> YDS-YÖKDİL çalışırken kelimeyi zorla öğreten harika uygulamalar ve siteler </baslik3>
 
