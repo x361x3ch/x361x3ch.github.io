@@ -9,5 +9,5 @@
 
 </style>
 
-Klasörde 50 dosya var. 17 Dosyayı tek tek seçmek yerine ilk ve son dosyayı seçiyorum, ikisi arasındaki tüm dosyaları otomatik seçme ("aralığı seç") seçeneğim var. Bunu diğer dosya yöneticilerinde arıyorum yok. Tek tek seçmek zorunda kalıyorum.
+Klasörde 50 dosya var. 17 Dosyayı tek tek seçmek yerine ilk ve son dosyayı seçiyorum, ikisi arasındaki tüm dosyaları <abelahmacun> otomatik seçme ("aralığı seç") seçeneğim var. </abelahmacun> Bunu diğer dosya yöneticilerinde arıyorum yok. Tek tek seçmek zorunda kalıyorum.
 
