@@ -18,6 +18,27 @@
 		line-height: 1;
 	}
 
+	a:link {
+		color: #e8e8e8;
+		text-decoration: none;
+		font-family: "Poppins", sans-serif;
+		font-weight: 900;
+	}
+
+	a:hover {
+		color: #e8e8e8;
+		text-decoration: none;
+		font-family: "Poppins", sans-serif;
+		font-weight: 900;
+	}
+
+	a: {
+		color: #e8e8e8;
+		text-decoration: none;
+		font-family: "Poppins", sans-serif;
+		font-weight: 900;
+	}
+
 	a {
 		color: #e8e8e8;
 		text-decoration: none;
