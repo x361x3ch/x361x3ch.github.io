@@ -6,7 +6,7 @@
 		color: WhiteSmoke;
 		line-height: 0.8;
 		font-family: "Poppins", sans-serif;
-		text-align: center;
+		align: center;
 		font-weight: 200;
 		font-size: 32px;
 		text-transform: capitalize;
