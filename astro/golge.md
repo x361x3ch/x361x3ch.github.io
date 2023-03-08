@@ -8,7 +8,7 @@
 		font-family: "Poppins", sans-serif;
 		text-align: center;
 			position: fixed;
-			top: 50%;
+			/*top: 50%;*/
 			left: 50%;
 		font-weight: 200;
 		font-size: 32px;
