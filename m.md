@@ -19,31 +19,37 @@
 	}
 	
 	p {
+		font-family: Kavivanar;
 		color: #505040;
 	}
 	
 	ub {
+		font-family: Pirata One;
 		font-size: 1.5em;
 		color: firebrick;
 		line-height: 1;
 	}
 	
 	a:link {
+		font-family: Pirata One;
 		text-decoration: none;
 		color: #134A42;
 	}
 
 	a:visited {
+		font-family: Pirata One;
 		text-decoration: none;
 		color: #134A42;
 	} 
 
 	a:hover {
+		font-family: Pirata One;
 		text-decoration: none;
 		color: #134A42;
 	}
 	
 	a:active {
+		font-family: Pirata One;
 		text-decoration: none;
 		color: #134A42;
 	}
