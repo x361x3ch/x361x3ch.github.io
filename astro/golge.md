@@ -58,7 +58,7 @@ Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerin
 
 <!-- https://twitter.com/i/status/1168086453412384768 -->  
 
-
+<center>
 
 | N/E | Ateş | Hava | Toprak | Su |  
 |---:|:---:|:---:|:---:|:---:|  
@@ -66,7 +66,7 @@ Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerin
 | Değişken | ♐︎ | ♊︎ | ♍︎ | ♓︎ |  
 | Sabit | ♌︎ | ♒︎ | ♉︎ | ♏︎ |  
  
-
+</center>
 
 Elementler  
 Ateş Koç, Aslan, Yay  
