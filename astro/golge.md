@@ -1,4 +1,4 @@
-<link href="/styles.css" rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
 
 <fash> GÖLGE BURÇ </fash>
 
