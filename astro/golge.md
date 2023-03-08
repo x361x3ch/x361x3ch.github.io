@@ -3,7 +3,7 @@
 <style>
 
 	fash {
-		color: SmokeWhite;
+		color: WhiteSmoke;
 		line-height: 0.8;
 		font-family: "Poppins", sans-serif;
 		text-align: center;
