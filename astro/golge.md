@@ -1,5 +1,33 @@
 <link href="styles.css" rel="stylesheet">
 
+<style>
+
+fash {
+		line-height: 0.8;
+		font-family: "Poppins", sans-serif;
+		text-align: center;
+		font-weight: 200;
+		font-size: 32px;
+		text-transform: capitalize;
+		margin-top: 10%;
+		margin-bottom: 10%;
+	}
+
+	kaynak {
+		background-color: #fe45aa;
+		line-height: 0.7;
+		text-align: right;
+		color: #e8e8e8;
+		text-decoration: none;
+		font-family: "Poppins", sans-serif;
+		font-weight: 200;
+		margin: 0 -10% 0 -10%;
+	}
+
+</style>
+
+
+
 <p class="fash"> GÖLGE BURÇ </p>
 
 <p class="kaynak"> <a style="font-weight: 400;" href="https://twitter.com/i/status/1168083846904123394">
