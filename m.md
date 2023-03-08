@@ -1,4 +1,5 @@
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Pirata+One&family=Quicksand:wght@300;400;500;600;700&family=Kavivanar&display=swap");
 
 	body {
 	  background-color: transparent !important;
@@ -9,6 +10,7 @@
 	}
 	
 	baslik {
+		font-family: Pirata One;
 		font-size: 1.5em;
 		float: left;
 		margin: 0 2% 0 0;
