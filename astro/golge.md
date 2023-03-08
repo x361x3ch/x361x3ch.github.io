@@ -14,7 +14,7 @@
 		margin-bottom: 10%;
 	}
 
-	kaynak {
+	p.kaynak {
 		background-color: #fe45aa;
 		line-height: 0.7;
 		text-align: right;
