@@ -27,13 +27,15 @@
 
 </style>
 
-
+<center>
 
 <fash> 
 
 GÖLGE BURÇ
 
  </fash>
+
+</center>
 
 <br/>
 
