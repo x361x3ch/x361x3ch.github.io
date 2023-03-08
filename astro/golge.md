@@ -15,9 +15,7 @@ Eksikliklerimizi bir şekilde tamamlamamız gerekir.
 
 Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerinde olabilir.
 
-<!-- https://twitter.com/i/status/1168086453412384768 -->
-
-
+<!-- https://twitter.com/i/status/1168086453412384768 -->  
 
 | N/E | Ateş | Hava | Toprak | Su |  
 |---:|:---:|:---:|:---:|:---:|  
