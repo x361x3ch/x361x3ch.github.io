@@ -1,80 +1,81 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap");
 
-body {
-  background-color: #272b31;
-}
+	body {
+		background-color: #272b31;
+	}
 
-p {
-  color: #f0eaea;
-  font-family: "Quicksand", sans-serif;
-  margin-right: 5%;
-  margin-left: 5%;
-}
+	p {
+		color: #f0eaea;
+		font-family: "Quicksand", sans-serif;
+		margin-right: 5%;
+		margin-left: 5%;
+	}
 
-fash {
-  line-height: 0.8;
-  font-family: "Poppins", sans-serif;
-  text-align: center;
-  font-weight: 200;
-  font-size: 32px;
-  text-transform: capitalize;
-  margin-top: 10%;
-  margin-bottom: 10%;
+	fash {
+		line-height: 0.8;
+		font-family: "Poppins", sans-serif;
+		text-align: center;
+font-weight: 200;
+font-size: 32px;
+text-transform: capitalize;
+margin-top: 10%;
+margin-bottom: 10%;
 }
 
 kaynak {
-  background-color: #fe45aa;
-  line-height: 0.7;
-  text-align: right;
-  color: #e8e8e8;
-  text-decoration: none;
-  font-family: "Poppins", sans-serif;
-  font-weight: 200;
-  margin: 0 -10% 0 -10%;
+background-color: #fe45aa;
+line-height: 0.7;
+text-align: right;
+color: #e8e8e8;
+text-decoration: none;
+font-family: "Poppins", sans-serif;
+font-weight: 200;
+margin: 0 -10% 0 -10%;
 }
 
 li {
-  color: #262930;
-  font-family: "Quicksand", sans-serif;
-  margin-top: 0%;
-  margin-right: 5%;
-  line-height: 1;
+color: #262930;
+font-family: "Quicksand", sans-serif;
+margin-top: 0%;
+margin-right: 5%;
+line-height: 1;
 }
 
 a {
-  color: #e8e8e8;
-  text-decoration: none;
-  font-family: "Poppins", sans-serif;
-  font-weight: 900;
+color: #e8e8e8;
+text-decoration: none;
+font-family: "Poppins", sans-serif;
+font-weight: 900;
 }
 
 img {
-  max-width: 99%;
+max-width: 99%;
 }
 
 tg {
-  border: none;
-  border-collapse: collapse;
-  border-spacing: 0;
+text-align: center;
+border: none;
+border-collapse: collapse;
+border-spacing: 0;
 }
 
 td {
-  border-style: solid;
-  border-width: 0px;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  overflow: hidden;
-  padding: 10px 5px;
-  word-break: normal;
+border-style: solid;
+border-width: 0px;
+font-family: Arial, sans-serif;
+font-size: 14px;
+overflow: hidden;
+padding: 10px 5px;
+word-break: normal;
 }
 
 th {
-  border-style: solid;
-  border-width: 0px;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  font-weight: normal;
-  overflow: hidden;
-  padding: 10px 5px;
-  word-break: normal;
+border-style: solid;
+border-width: 0px;
+font-family: Arial, sans-serif;
+font-size: 14px;
+font-weight: normal;
+overflow: hidden;
+padding: 10px 5px;
+word-break: normal;
 }
