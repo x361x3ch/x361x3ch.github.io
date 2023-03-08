@@ -1,6 +1,6 @@
 <link href="styles.css" rel="stylesheet">
 
-<fash> GÖLGE BURÇ </fash>
+<p class="fash"> GÖLGE BURÇ </p>
 
 <p id="kaynak"> <a style="font-weight: 400;" href="https://twitter.com/i/status/1168083846904123394">
 2019-10-10 21.30</a> <br/> <a style="font-weight: 400;" href="https://twitter.com/astroption">astroption</a> </p>
