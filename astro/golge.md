@@ -15,7 +15,7 @@ Eksikliklerimizi bir şekilde tamamlamamız gerekir.
 
 Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerinde olabilir.
 
-[](https://twitter.com/i/status/1168086453412384768)
+<!-- https://twitter.com/i/status/1168086453412384768 -->
 
 
 
@@ -38,7 +38,7 @@ Sabit Boğa, Akrep, Aslan, Kova
 Öncü Koç, Yengeç, Terazi, Oğlak  
 Değişken İkizler, Başak, Yay, Balık
 
-[](https://twitter.com/astroption/status/1182362783838543873)
+<!-- https://twitter.com/astroption/status/1182362783838543873 -->
 
 Element puanlamasını nasıl yapacağınızı yazıyorum.
 
