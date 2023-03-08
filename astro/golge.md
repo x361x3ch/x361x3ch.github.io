@@ -13,7 +13,7 @@
 		margin-bottom: 10%;
 	}
 
-	div.kaynak {
+	p.kaynak {
 		background-color: #fe45aa;
 		line-height: 0.7;
 		text-align: right;
