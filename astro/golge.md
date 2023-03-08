@@ -2,8 +2,8 @@
 
 <fash> GÖLGE BURÇ </fash>
 
-<kaynak> <a style="font-weight: 400;" href="https://twitter.com/i/status/1168083846904123394">
-2019-10-10 21.30</a> <br/> <a style="font-weight: 400;" href="https://twitter.com/astroption">astroption</a> </kaynak>
+<p class="kaynak"> <a style="font-weight: 400;" href="https://twitter.com/i/status/1168083846904123394">
+2019-10-10 21.30</a> <br/> <a style="font-weight: 400;" href="https://twitter.com/astroption">astroption</a> </p>
 
 [![](https://twitter.beparanoid.de/pic/profile_images%2F1155900734371717120%2FIGVGkjws_bigger.jpg)](https://twitter.com/astroption)
 
