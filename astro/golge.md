@@ -28,7 +28,11 @@
 
 
 
-<fash> GÖLGE BURÇ </fash>
+<fash> 
+
+GÖLGE BURÇ
+
+ </fash>
 
 <kaynak> <a style="font-weight: 400;" href="https://twitter.com/i/status/1168083846904123394">
 2019-10-10 21.30</a> <br/> <a style="font-weight: 400;" href="https://twitter.com/astroption">astroption</a> </kaynak>
