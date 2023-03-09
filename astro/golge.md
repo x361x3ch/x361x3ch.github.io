@@ -1,32 +1,5 @@
 <link href="https://x361x3ch.github.io/astro/styles.css" rel="stylesheet">
 
-<style>
-
-	fash {
-		color: WhiteSmoke;
-		line-height: 0.8;
-		font-family: "Poppins", sans-serif;
-		alignment: center;
-		font-weight: 200;
-		font-size: 32px;
-		text-transform: capitalize;
-		margin-top: 10%;
-		margin-bottom: 10%;
-	}
-
-	p.kaynak {
-		background-color: #fe45aa;
-		line-height: 0.7;
-		text-align: right;
-		color: #e8e8e8;
-		text-decoration: none;
-		font-family: "Poppins", sans-serif;
-		font-weight: 200;
-		margin: 0 -3% 0 -3%;
-	}
-
-</style>
-
 <center>
 
 <fash> 
