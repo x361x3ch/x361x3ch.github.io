@@ -107,7 +107,7 @@
 		text-decoration: none;
 		font-family: "Poppins", sans-serif;
 		font-weight: 200;
-		width: 100%;
-		margin-left: -10%;
-		margin-right: -10%;
+		width: 100%; !important 
+		margin-left: -10%; !important 
+		margin-right: -10%; !important
 	}
