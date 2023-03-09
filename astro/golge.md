@@ -35,6 +35,7 @@ Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerin
 | Değişken | ♐︎ | ♊︎ | ♍︎ | ♓︎ |  
 | Sabit | ♌︎ | ♒︎ | ♉︎ | ♏︎ |  
 
+<!-- 
 Elementler  
 Ateş Koç, Aslan, Yay  
 Su Yengeç, Akrep, Balık  
@@ -44,7 +45,7 @@ Hava ikizler, Terazi, Kova
 Nitelikler  
 Sabit Boğa, Akrep, Aslan, Kova  
 Öncü Koç, Yengeç, Terazi, Oğlak  
-Değişken İkizler, Başak, Yay, Balık
+Değişken İkizler, Başak, Yay, Balık -->
 
 <!-- https://twitter.com/astroption/status/1182362783838543873 -->
 
