@@ -22,7 +22,7 @@
 		text-decoration: none;
 		font-family: "Poppins", sans-serif;
 		font-weight: 200;
-		max-width: 100%;
+		width: 110%;
 	}
 
 </style>
