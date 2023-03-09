@@ -12,10 +12,10 @@ GÖLGE BURÇ
 
 <br/>
 
-<hr class="kaynak">
+<p class="kaynak">
 
 <a style="font-weight: 400;" href="https://twitter.com/i/status/1168083846904123394">
-2019-10-10 21.30</a> <br/> <a style="font-weight: 400;" href="https://twitter.com/astroption">astroption</a> </hr>
+2019-10-10 21.30</a> <br/> <a style="font-weight: 400;" href="https://twitter.com/astroption">astroption</a> </p>
 
 [![](https://twitter.com/pic/profile_images/1155900734371717120/IGVGkjws_bigger.jpg)](https://twitter.com/astroption)
 
