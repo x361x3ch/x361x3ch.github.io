@@ -27,7 +27,8 @@ Gölge burçlarımız öğretmen gibidir. Bizde eksik olan şeyleri gösterir.
 Eksikliklerimizi bir şekilde tamamlamamız ge-
 rekir.  
 
-Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerinde olabilir.
+Dolayısıyla, evleneceğimiz kişinin karakteri göl-
+ge burcumuzun özelliklerinde olabilir.
 
 <!-- https://twitter.com/i/status/1168086453412384768 -->  
 
