@@ -36,9 +36,9 @@ ge burcumuzun özelliklerinde olabilir.
 
 | N/E | Ateş | Hava | Toprak | Su |  
 |---:|:---:|:---:|:---:|:---:|  
-| Öncü | ♈︎ | ♎︎ | ♑︎ | ♋︎ |  
+| Öncü | <i class="em em-aries" aria-role="presentation" aria-label="ARIES"></i> | ♎︎ | ♑︎ | ♋︎ |  
 | Değişken | ♐︎ | ♊︎ | ♍︎ | ♓︎ |  
-| Sabit | ♌︎ | ♒︎ | ♉︎ | ♏︎ |  
+| Sabit | ♌︎ | <i class="em em-aquarius" aria-role="presentation" aria-label="AQUARIUS"></i> | ♉︎ | ♏︎ |  
 
 <!-- 
 Elementler  
