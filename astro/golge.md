@@ -19,8 +19,8 @@ GÖLGE BURÇ
 
 [![](https://twitter.com/pic/profile_images/1155900734371717120/IGVGkjws_bigger.jpg)](https://twitter.com/astroption)
 
-Gölge burcumuzun semboliği olan biri ile evle-
-nebiliriz.  
+Gölge burcumuzun semboliği olan biri ile evlene-
+biliriz.  
 
 Gölge burçlarımız öğretmen gibidir. Bizde eksik olan şeyleri gösterir.  
 
