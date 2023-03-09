@@ -1,13 +1,11 @@
 	@viewport {
 		width: 99% ;
+		overflow-y: hidden;
+		overflow-x: hidden; 
 	} 
 
 	@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap");
-	head {
-		overflow-y: hidden;
-		overflow-x: hidden;
-	}
-
+	
 	body {
 		background-color: #272b31;
 		overflow: -moz-scrollbars-horizontal;
