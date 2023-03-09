@@ -22,7 +22,6 @@
 		text-decoration: none;
 		font-family: "Poppins", sans-serif;
 		font-weight: 200;
-		width: 110%;
 		margin: 0 -3% 0 -3%;
 	}
 
