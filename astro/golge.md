@@ -36,7 +36,7 @@ ge burcumuzun özelliklerinde olabilir.
 
 | N/E | Ateş | Hava | Toprak | Su |  
 |---:|:---:|:---:|:---:|:---:|  
-| Öncü | <i class="em em-aries" aria-role="presentation" aria-label="ARIES"></i> | <i class="em em-libra" aria-role="presentation" aria-label="LIBRA"></i> | <i class="em em-capricorn" aria-role="presentation" aria-label="CAPRICORN"></i> | ♋︎ |  
+| Öncü | <i class="em em-aries" aria-role="presentation" aria-label="ARIES"></i> | <i class="em em-libra" aria-role="presentation" aria-label="LIBRA"></i> | <i class="em em-capricorn" aria-role="presentation" aria-label="CAPRICORN"></i> | <i class="em em-cancer" aria-role="presentation" aria-label="CANCER"></i> |  
 | Değişken | <i class="em em-sagittarius" aria-role="presentation" aria-label="SAGITTARIUS"></i> | <i class="em em-gemini" aria-role="presentation" aria-label="GEMINI"></i> | <i class="em em-virgo" aria-role="presentation" aria-label="VIRGO"></i> | <i class="em em-pisces" aria-role="presentation" aria-label="PISCES"></i> |  
 | Sabit | <i class="em em-leo" aria-role="presentation" aria-label="LEO"></i> | <i class="em em-aquarius" aria-role="presentation" aria-label="AQUARIUS"></i> | <i class="em em-taurus" aria-role="presentation" aria-label="TAURUS"></i> | <i class="em em-scorpius" aria-role="presentation" aria-label="SCORPIUS"></i> |  
 
