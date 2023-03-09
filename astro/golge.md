@@ -54,4 +54,4 @@ Değişken İkizler, Başak, Yay, Balık -->
 Neptün, Plüto ve Uranüs’ü katmıyoruz.  
 
 Güneş, Ay ve Yükselen’e 3 puan verin.  
-MC Noktası, Merkür, Venüs, Mars, Jupiter ve Satürn’e 1 puan vereceksiniz. 
+MC Noktası, Merkür, Venüs, Mars, Jupiter ve Satürn’e 1 puan vereceksiniz.
