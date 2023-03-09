@@ -19,6 +19,8 @@ GÖLGE BURÇ
 
 [![](https://twitter.com/pic/profile_images/1155900734371717120/IGVGkjws_bigger.jpg)](https://twitter.com/astroption)
 
+<article>
+
 Gölge burcumuzun semboliği olan biri ile evlenebiliriz.  
 
 Gölge burçlarımız öğretmen gibidir. Bizde eksik olan şeyleri gösterir.  
@@ -55,3 +57,5 @@ Neptün, Plüto ve Uranüs’ü katmıyoruz.
 
 Güneş, Ay ve Yükselen’e 3 puan verin.  
 MC Noktası, Merkür, Venüs, Mars, Jupiter ve Satürn’e 1 puan vereceksiniz. 
+
+</article>
