@@ -22,14 +22,12 @@ GÖLGE BURÇ
 Gölge burcumuzun semboliği olan biri ile evle-
 nebiliriz.  
 
-Gölge burçlarımız öğretmen gibidir. Bizde ek-
-sik olan şeyleri gösterir.  
+Gölge burçlarımız öğretmen gibidir. Bizde eksik olan şeyleri gösterir.  
 
-Eksikliklerimizi bir şekilde tamamlamamız ge-
-rekir.  
+Eksikliklerimizi bir şekilde tamamlamamız gere-
+kir.  
 
-Dolayısıyla, evleneceğimiz kişinin karakteri göl-
-ge burcumuzun özelliklerinde olabilir.
+Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerinde olabilir.
 
 <!-- https://twitter.com/i/status/1168086453412384768 -->  
 
