@@ -22,7 +22,7 @@ GÖLGE BURÇ
 Gölge burcumuzun semboliği olan biri ile evle-
 nebiliriz.  
 
-Gölge burçlarımız öğretmen gibidir. Bizde eksik olan şeyleri gösterir.  
+Gölge burçlarımız öğretmen gibidir. Bizde ek-sik olan şeyleri gösterir.  
 
 Eksikliklerimizi bir şekilde tamamlamamız gerekir.  
 
