@@ -19,14 +19,17 @@ GÖLGE BURÇ
 
 [![](https://twitter.com/pic/profile_images/1155900734371717120/IGVGkjws_bigger.jpg)](https://twitter.com/astroption)
 
-Gölge burcumuzun semboliği olan biri ile evle-
-nebiliriz.  
+Gölge burcumuzun semboliği olan biri ile ev-
+lenebiliriz.  
 
-Gölge burçlarımız öğretmen gibidir. Bizde ek-sik olan şeyleri gösterir.  
+Gölge burçlarımız öğretmen gibidir. Bizde ek-
+sik olan şeyleri gösterir.  
 
-Eksikliklerimizi bir şekilde tamamlamamız gerekir.  
+Eksikliklerimizi bir şekilde tamamlamamız ge-
+rekir.  
 
-Dolayısıyla, evleneceğimiz kişinin karakteri gölge burcumuzun özelliklerinde olabilir.
+Dolayısıyla, evleneceğimiz kişinin karakteri göl-
+ge burcumuzun özelliklerinde olabilir.
 
 <!-- https://twitter.com/i/status/1168086453412384768 -->  
 
