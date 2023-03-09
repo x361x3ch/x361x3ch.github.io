@@ -1,5 +1,7 @@
 <link href="https://x361x3ch.github.io/astro/styles.css" rel="stylesheet">
 
+<link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+
 <center>
 
 <fash> 
