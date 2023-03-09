@@ -49,7 +49,7 @@ Değişken İkizler, Başak, Yay, Balık -->
 
 <!-- https://twitter.com/astroption/status/1182362783838543873 -->
 
-Element puanlamasını nasıl yapacağınızı yazıyorum.
+**Element puanlamasını nasıl yapacağız?**
 
 Neptün, Plüto ve Uranüs’ü katmıyoruz.  
 
