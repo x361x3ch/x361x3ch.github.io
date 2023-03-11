@@ -63,6 +63,12 @@ mark {
 	border-radius: 3px 3px 3px 3px;
 }
 
+mark1 {
+	background-color: DeepPink;
+	padding: 0.1vw 0.1vw 0.1vw 0.1vw;
+	border-radius: 3px 3px 3px 3px;
+}
+
 kaynak {
 	background-color: #86AD41;
 	color: WhiteSmoke;
