@@ -3,6 +3,18 @@
 body {
 	background-color: #E8E8E8;
 	margin: 10vw 5vw 15vw 5vw;
+	text-align: justify;
+	text-align-last: left;
+	justify-content: center;
+	word-break: break-all;
+	word-wrap: break-word; 
+	word-spacing: normal;
+	hyphens: auto;
+  	-moz-hyphens: auto;
+  	-webkit-hyphens: auto;
+  	word-break: break-word;
+  	-ms-word-break: break-all;
+	  -webkit-hyphenate-character: '-';
 }
 
 h1,h2,h3,h4 { 
@@ -16,18 +28,6 @@ p {
 	font-family: Poppins;
 	color: #434343;
 	text-indent: 10vw;
-	text-align: justify;
-	text-align-last: left;
-	justify-content: center;
-	word-break: break-all;
-	word-wrap: break-word; 
-	word-spacing: normal;
-	hyphens: auto;
-  	-moz-hyphens: auto;
-  	-webkit-hyphens: auto;
-  	word-break: break-word;
-  	-ms-word-break: break-all;
-	  -webkit-hyphenate-character: '-';
 }
 
 ul { list-style: none; } /* Remove default bullets */
