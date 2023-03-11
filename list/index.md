@@ -1,6 +1,11 @@
 <link href="https://x361x3ch.github.io/list/style.css" rel="stylesheet">
 
+<baslik1>
+
 Bu bir CSS liste denemesidir.
+
+</baslik1>
+
 
 Aliya İzzetbegoviç'in 1997 yılında Tahran‘da yapılan İslam Konferansı Örgütü toplantısında yaptığı konuşma;
 
