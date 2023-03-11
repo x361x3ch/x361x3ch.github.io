@@ -42,25 +42,3 @@ h1,h2,h3,h4 {
 	border-bottom: 0; 
 	font-family: Quicksand;
 } 
-
-baslik1 {
-	font-family: Quicksand;
-	font-size: 2em;
-	left: auto;
-	right: auto;
-}
-
-baslik2 {
-	font-family: Quicksand;
-	font-size: 1.7em;
-	left: auto;
-	right: auto;
-}
-
-baslik3 {
-	font-family: Quicksand;
-	font-size: 1.5em;
-	left: auto;
-	right: auto;
-	line-height: normal;
-}
