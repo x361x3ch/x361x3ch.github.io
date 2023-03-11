@@ -27,7 +27,7 @@ h1,h2,h3,h4 {
 p {
 	font-family: Poppins;
 	color: #434343;
-	text-indent: 10vw;
+	text-indent: 5vw;
 }
 
 ul { list-style: none; } /* Remove default bullets */
