@@ -3,7 +3,6 @@ ul { list-style: none; } /* Remove default bullets */
 li::before {
     content: "\❖ "; /* Unicode bullet symbol */
     color: purple;  /* Bullet color */
-	position: absolute;
 	left: -0.8em;
 	font-size: 1.1em;
 	/* Optional tweaks */
