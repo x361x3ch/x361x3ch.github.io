@@ -55,5 +55,6 @@ baslik2 {
 baslik3 {
 	font-family: Quicksand;
 	font-size: 1.5em;
-	text-align: center;
+	left: auto;
+	right: auto;
 }
