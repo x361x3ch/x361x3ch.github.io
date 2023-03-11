@@ -208,8 +208,8 @@ li {
   font-family: "Poppins", sans-serif;
   font-weight: 200;
   text-transform: capitalize;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 10vw;
+  margin-bottom: 10vw;
 }
 
 .dark-mode p.yanbaslik {
@@ -248,7 +248,7 @@ li {
   color: #E8E8E8;
    font-family: "Quicksand", sans-serif;
   margin-top: 0%;
-  margin-left: -12%;
+  margin-left: -12vw;
   line-height: 1;
 }
 
