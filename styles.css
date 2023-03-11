@@ -86,7 +86,7 @@ img[src*="#full-width"] {
   height: auto;
   max-height: 400px;
   width:auto;
-  padding: 1%;
+  padding: 1vw;
   display: block;
   margin-left: auto;
   margin-right: auto; 
@@ -96,23 +96,23 @@ img[src*="#full-width"] {
 img[src*="#left"] {
   float: left;
   width: auto;
-  max-width: 48%;
+  max-width: 48vw;
   Height: auto;
   max-height: 300px;
-  padding: 1%;
+  padding: 1vw;
   display: flex;
   align-items: center; 
-  margin-left: 5%;
+  margin-left: 5vw;
   margin-right: auto; 
 }
 
 img[src*="#right"] {
   float: right;
   width: auto;
-  max-width: 48%;
+  max-width: 48vw;
   Height: auto;
   max-height: 300px;
-  padding: 1%;
+  padding: 1vw;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -122,8 +122,8 @@ hr {
   background-color: #402A1F;
   border: none;
   height: 5px;
-  margin-left: 0%;
-  margin-right: 0%;
+  margin-left: 0vw;
+  margin-right: 0vw;
 }
 
 button.lamba {
@@ -158,8 +158,8 @@ li::before {
 li {
   color: #262930;
    font-family: "Kavivanar", sans-serif;
-  margin-top: 0%;
-  margin-left: -12%;
+  margin-top: 0vw;
+  margin-left: -12vw;
   line-height: 1; 
 }
 
@@ -169,7 +169,7 @@ li {
 }
 
 .profile-info {
-  margin-left: 10%;
+  margin-left: 10vw;
   margin-bottom: 0.1px;
   font-size:2em;
   padding: 1px;
