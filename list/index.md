@@ -1,5 +1,7 @@
 <link href="style.css" rel="stylesheet">
 
+Bu bir CSS liste denemesidir.
+
 + domates
 + biber
 + patlıcan
