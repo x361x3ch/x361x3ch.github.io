@@ -32,7 +32,7 @@ li::before {
 }
 
 li {
-  color: black; 
+  color: purple; 
   font-family: "Garamond", sans-serif;
   margin: 0% 0 0 -10%; /*onemli*/
   line-height: 1;
