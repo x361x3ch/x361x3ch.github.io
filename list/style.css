@@ -70,6 +70,13 @@ mark1 {
 	border-radius: 3px 3px 3px 3px;
 }
 
+mark2 {
+	background-color: #86AD41;
+	color: WhiteSmoke;
+	padding: 0.1vw 0.1vw 0.1vw 0.1vw;
+	border-radius: 3px 3px 3px 3px;
+}
+
 kaynak {
 	background-color: #86AD41;
 	color: WhiteSmoke;
