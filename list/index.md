@@ -13,9 +13,9 @@ Aliya İzzetbegoviç'in 1997 yılında Tahran‘da yapılan İslam Konferansı �
 toplumsal yardım iyi örgütlenmiş durumda. Batılılar çoğunlukla sorumlu ve dakik kişiler. Onların
 ilerlemelerinin karanlık yönünü de biliyorum ve bunun gözümden kaçmasına izin vermiyorum. İslam en iyisi ama biz en iyisi değiliz. Bunlar iki farklı şey ve her zaman onları karıştırıyoruz. Batı'dan nefret etmek yerine onunla rekabet etmeliyiz. Kuran bize bunu emretmiyor mu; “Hayırlı işlerde yarışınız.”
 
-+ domates
-+ biber
-+ patlıcan
-+ 74 uçak
-+ doksan dokuz helikopter
-+ on sekiz bin elli üç iş makinesi 
++ Sehi Bey'in Heşt Behişt adlı şuara tezkiresi (16. yüzyıl)
++ Seydi Ali Reis'in Mir'atü'l-Memalik isimli gezi yazısı ve Kitabü'l Muhit isimli coğrafya kitabı (16. yüzyıl)
++ Kul Mes'ut'un Kelile ve Dimme tercümesi (14. yüzyıl)
++ Aşıkpaşazade'nin Tevarih-i Al-i Osman (Osmanlı Tarihi adlı eseri (15. yüzyıl)
++ Evliya Çelebi Seyahatnamesi (17.yüzyıl)
++ Mercimek Ahmed'in Kabusname tercümesi (15. yüzyıl)
