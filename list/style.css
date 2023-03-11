@@ -35,7 +35,7 @@ li::before {
 li {
   font-family: "Poppins", sans-serif;
   margin: 0% 0 0 -10%; /*onemli*/
-  line-height: 1;
+  line-height: normal;
 }
 
 baslik1 {
