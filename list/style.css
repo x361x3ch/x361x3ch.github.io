@@ -2,10 +2,7 @@ ul { list-style: none; } /* Remove default bullets */
 
 li::before {
     content: "\· "; /* Unicode bullet symbol */
-    color: Fuchsia;  /* Bullet color */
-	vertical-align: middle;
-	width: 1px;
-	height: 1px;
+    color: blue;  /* Bullet color */
 	/* Optional tweaks */
     /*font-weight: bold;*/
     /*padding-right: 10px;*/
