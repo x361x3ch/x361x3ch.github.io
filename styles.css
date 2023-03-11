@@ -4,11 +4,11 @@ body {
   background-image: url('https://iili.io/H1pBdJa.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: 100vw 100vw;
   color: #402A1F;
   font-family: "Kavivanar", sans-serif;
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-right: 5vw;
+  margin-left: 5vw;
   line-height: 1;
 }
 
@@ -44,8 +44,8 @@ details > p {
   font-family: "Pirata One", sans-serif;
   font-weight: 200;
   text-transform: capitalize;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 10vw;
+  margin-bottom: 10vw;
   display: flex;
   align-items: center;
 }
@@ -78,11 +78,11 @@ a {
 }
 
 img {
-  max-width: 99%;
+  max-width: 99vw;
 }
 
 img[src*="#full-width"] {
-  max-width: 98%;
+  max-width: 98vw;
   height: auto;
   max-height: 400px;
   width:auto;
