@@ -1,7 +1,7 @@
 ul { list-style: none; } /* Remove default bullets */
 
 li::before {
-    content: "\❖ "; /* Unicode bullet symbol */
+    content: "\· "; /* Unicode bullet symbol */
     color: Fuchsia;  /* Bullet color */
 	vertical-align: middle;
 	width: 1px;
