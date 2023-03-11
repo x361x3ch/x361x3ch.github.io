@@ -1,0 +1,18 @@
+ul { list-style: none; } /* Remove default bullets */
+
+li::before {
+    content: "\❖ "; /* Unicode bullet symbol */
+    color: WhiteSmoke;  /* Bullet color */
+	
+	/* Optional tweaks */
+    /*font-weight: bold;*/
+    /*padding-right: 10px;*/
+}
+
+li {
+  color: #262930; 
+  font-family: "Kavivanar", sans-serif;
+  margin-top: 0%;
+  margin-left: -12%;
+  line-height: 1;
+}
