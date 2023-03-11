@@ -32,12 +32,12 @@ li::before {
 }
 
 li {
-  color: purple; 
-  font-family: "Garamond", sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0% 0 0 -10%; /*onemli*/
   line-height: 1;
 }
 
 baslik1 {
 	font-family: Quicksand;
+	font-size: 2em;
 }
