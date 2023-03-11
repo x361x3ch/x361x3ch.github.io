@@ -11,7 +11,7 @@ li::before {
 
 li {
   color: black; 
-  font-family: "Georgia", sans-serif;
+  font-family: "Garamond", sans-serif;
   margin: 0% 0 0 -12%; /*onemli*/
   line-height: 1;
 }
