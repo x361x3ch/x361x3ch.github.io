@@ -26,7 +26,7 @@ ul { list-style: none; } /* Remove default bullets */
 
 li::before {
     content: "\᛫ "; /* Unicode bullet symbol */
-    color: DeepPink;  /* Bullet color */
+    color: #86AD41;  /* Bullet color */
 	/* Optional tweaks */
     /*font-weight: bold;*/
     /*padding-right: 10px;*/
