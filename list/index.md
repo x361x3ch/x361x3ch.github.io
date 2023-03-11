@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet">
+<link href="https://x361x3ch.github.io/list/style.css" rel="stylesheet">
 
 Bu bir CSS liste denemesidir.
 
