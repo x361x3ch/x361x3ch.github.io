@@ -3,8 +3,9 @@ ul { list-style: none; } /* Remove default bullets */
 li::before {
     content: "\❖ "; /* Unicode bullet symbol */
     color: purple;  /* Bullet color */
-	left: -0.8em;
-	font-size: 1.1em;
+	vertical-align: middle;
+	width: 5px;
+	height: 5px;
 	/* Optional tweaks */
     /*font-weight: bold;*/
     /*padding-right: 10px;*/
