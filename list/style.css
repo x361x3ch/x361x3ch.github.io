@@ -84,7 +84,7 @@ mark2 {
 	border-radius: 5px 5px 5px 5px;
 }
 
-box#kaynak {
+kaynak {
 	background-color: #86AD41; 
 	text-align: right; 
 	text-indent: 0px; 
@@ -94,7 +94,7 @@ box#kaynak {
 	padding: 2vw 10vw 2vw 10vw;
 	}
 
-box#kaynak a:link { 
+kaynak a:link { 
 	color: WhiteSmoke; 
 	font-family: Poppins; 
 	text-indent: 0px; 
