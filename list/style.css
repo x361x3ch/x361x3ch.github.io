@@ -94,6 +94,25 @@ div.kaynak {
 	padding: 2vw 10vw 2vw 10vw;
 }
 
+div#home a:link { color: #70DB93; }
+div#home a:visited { color: #70DB93; }
+div#home a:hover { color: #70DB93; }
+div#home a:active { color: #70DB93; }
+
+div#home a:link { color: #70DB93; }
+div#home a:visited { color: #70DB93; }
+div#home a:hover { color: #70DB93; }
+div#home a:active { color: #70DB93; }
+
+
+div.home {
+a:link { color: #70DB93; }
+a:visited { color: #70DB93; }
+a:hover { color: #70DB93; }
+a:active { color: #70DB93; }
+}
+
+
 div.kaynak a {
 	color: WhiteSmoke;
 	text-decoration: none;
