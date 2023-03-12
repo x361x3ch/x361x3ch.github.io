@@ -83,8 +83,8 @@ mark2 {
 }
 
 .kaynak {
-	background-color: #86AD41;
-	color: WhiteSmoke;
-	text-align: right;
-	text-indent: 0;
+	background-color: #86AD41; !important 
+	color: WhiteSmoke; !important 
+	text-align: right; !important 
+	text-indent: 0; !important 
 }
