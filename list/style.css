@@ -93,3 +93,7 @@ div.kaynak {
 	color: WhiteSmoke; !important 
 	text-decoration: none;
 }
+
+div.kaynak>a {
+	color: white
+}
