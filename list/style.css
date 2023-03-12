@@ -92,6 +92,7 @@ kaynak {
 	position: sticky;
 	margin: -10vw -9vw 1vw -10vw;
 	padding: 2vw 10vw 2vw 10vw;
+	width: 100vw;
 	}
 
 kaynak a:link { 
