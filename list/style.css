@@ -53,6 +53,7 @@ li {
 
 img {
 	max-width: 100vw;
+	padding: 0 -7vw 0 -7vw;
 }
 
 hr {
