@@ -92,5 +92,5 @@ div.kaynak {
 	position: sticky;
 	margin: -10vw -9vw 1vw -10vw;
 	padding: 2vw 10vw 2vw 10vw;
-	a: { color: WhiteSmoke; Font-family: Poppins;}
+	a:link { color: WhiteSmoke; Font-family: Poppins;}
 }
