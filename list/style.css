@@ -83,11 +83,3 @@ mark2 {
 	padding: 0.1vw 0.1vw 0.1vw 0.1vw;
 	border-radius: 5px 5px 5px 5px;
 }
-
-p.kaynak {
-	background-color: #86AD41; !important 
-	color: WhiteSmoke; !important 
-	text-align: right; !important 
-	text-indent: 0px; !important 
-	margin: 0 -5vw 0 -5vw;
-}
