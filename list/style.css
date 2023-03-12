@@ -92,5 +92,10 @@ div#kaynak {
 	position: sticky;
 	margin: -10vw -9vw 1vw -10vw;
 	padding: 2vw 10vw 2vw 10vw;
-	a:link { color: WhiteSmoke; Font-family: Poppins; text-indent: 0px; }
-}
+	}
+
+div#kaynak a:link { 
+	color: WhiteSmoke; 
+	font-family: Poppins; 
+	text-indent: 0px; 
+	}
