@@ -30,6 +30,9 @@ p {
 	text-indent: 5vw;
 }
 
+a: link {
+	t
+
 ul { list-style: none; } /* Remove default bullets */
 
 li::before {
@@ -83,4 +86,3 @@ mark2 {
 	text-align: right;
 	text-indent: none;
 }
-
