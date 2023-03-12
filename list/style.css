@@ -38,7 +38,7 @@ a {
 ul { list-style: none; } /* Remove default bullets */
 
 li::before {
-    content: "\᛫ "; /* Unicode bullet symbol */
+	content: "\᛫ "; /* Unicode bullet symbol */
     color: #86AD41;  /* Bullet color */
 	/* Optional tweaks */
     /*font-weight: bold;*/
