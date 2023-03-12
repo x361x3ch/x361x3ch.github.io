@@ -95,5 +95,7 @@ div.kaynak {
 }
 
 div.kaynak a {
-	color: WhiteSmoke; !important 
+	color: WhiteSmoke;
 	text-decoration: none;
+	font-family: Poppins;
+}
