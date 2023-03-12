@@ -47,8 +47,8 @@ li::before {
 
 li {
   font-family: "Poppins", sans-serif;
-  margin: 0vw 0 0 -7%; /*onemli*/
-  line-height: normal;
+margin: 0vw 0 0 -7%; /*onemli*/
+	line-height: normal;
 }
 
 img {
@@ -56,11 +56,11 @@ img {
 }
 
 hr {
-  background-color: #86AD41;
-  border: none;
-  height: 5px;
-  margin-left: 0%;
-  margin-right: 0%;
+	background-color: #86AD41;
+	border: none;
+	height: 5px;
+	margin-left: 0%;
+	margin-right: 0%;
 }
 
 mark {
