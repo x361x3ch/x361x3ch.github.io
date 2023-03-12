@@ -90,7 +90,7 @@ div.kaynak {
 	text-indent: 0px; 
 	top: 0px;
 	position: sticky;
-	margin: 10vw -9vw 10vw 15vw;
+	margin: 10vw -9vw 10vw -9vw;
 	padding: 10vw;
 	color: WhiteSmoke; !important 
 	text-decoration: none;
