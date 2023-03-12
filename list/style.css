@@ -33,6 +33,7 @@ p {
 a: link {
 	text-decoration: none;
 	color: #86AD41;
+}
 
 ul { list-style: none; } /* Remove default bullets */
 
