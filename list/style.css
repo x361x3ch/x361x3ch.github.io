@@ -46,8 +46,8 @@ li::before {
 }
 
 li {
-  font-family: "Poppins", sans-serif;
-margin: 0vw 0 0 -7%; /*onemli*/
+	font-family: "Poppins", sans-serif;
+	margin: 0vw 0 0 -7%; /*onemli*/
 	line-height: normal;
 }
 
