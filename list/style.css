@@ -21,6 +21,7 @@ h1,h2,h3,h4 {
 	font-family: Quicksand;
 	color: #86AD41;
 	line-height: 10vw;
+	word-spacing: 1px;
 } 
 
 p {
