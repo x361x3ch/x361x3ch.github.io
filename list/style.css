@@ -40,6 +40,7 @@ ul { list-style: none; } /* Remove default bullets */
 li::before {
 	content: "\᛫ "; /* Unicode bullet symbol */
     color: #86AD41;  /* Bullet color */
+	text-indent: 0px;
 	/* Optional tweaks */
     /*font-weight: bold;*/
     /*padding-right: 10px;*/
