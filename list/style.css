@@ -60,8 +60,8 @@ li::before {
 
 li {
 	font-family: "Poppins", sans-serif;
-	margin: -20vw 0 0 -20%; /*onemli*/
-	padding: 10vw 0 0 0;
+	padding: -20vw 0 0 -20%; /*onemli*/
+	/*padding: 10vw 0 0 0;*/
 	line-height: normal;
 	/*text-indent: 0px;*/
 }
