@@ -56,7 +56,7 @@ li::before {
 }
 li {
   font-family: "Poppins", sans-serif;
-  margin: -20vw 0 0 -60vw; /*onemli*/
+  padding: -20vw 0 0 -60vw; /*onemli*/
   line-height: normal;
   text-indent: 0px;
 }
