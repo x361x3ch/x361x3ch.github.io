@@ -49,11 +49,11 @@ a {
 ul {
   list-style: none; /* Remove default bullets */
   text-indent: 0px;
+  margin: 0 0 0 -20vw;
 }
 li::before {
   content: "\᛫ "; /* Unicode bullet symbol */
   color: #86ad41; /* Bullet color */ 
-  margin: 0 0 0 -5vw;
 /* Optional tweaks */ /*font-weight: bold;*/ /*padding-right: 10px;*/
 }
 li {
