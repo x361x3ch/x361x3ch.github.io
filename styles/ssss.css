@@ -29,7 +29,7 @@ h4 {
   word-break: break-word;
   -ms-word-break: break-all;
   -webkit-hyphenate-character: "-";
-  margin: 10vw 5vw 15vw 0vw;
+  margin: 0 5vw 0 0vw;
   border-bottom: 0;
   font-family: Quicksand;
   color: #86ad41;
