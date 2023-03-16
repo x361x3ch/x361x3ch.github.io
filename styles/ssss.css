@@ -47,7 +47,7 @@ a {
   color: #86ad41;
 }
 ul {
-  list-style: none; /* Remove default bullets */
+  list-style-type: none; /* Remove default bullets */
   text-indent: 0px;
   margin: 0 0 0 -5vw;
   margin: 0 0 0 0vw;
