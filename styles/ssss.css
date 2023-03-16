@@ -63,7 +63,7 @@ ul {
   margin: 0 0 0 0vw;
 }
 li::before {
-  content: "\𑁦";
+  content: "\𐙞";
   text-align: left;
   display: inline-block;
   padding: 0;
