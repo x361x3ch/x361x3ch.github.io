@@ -52,9 +52,12 @@ ul {
   margin: 0 0 0 -5vw;
 }
 li::before {
-  content: "\᛫ "; /* Unicode bullet symbol */
-  color: #86ad41; /* Bullet color */ 
-/* Optional tweaks */ /*font-weight: bold;*/ /*padding-right: 10px;*/
+  content: "\2713";
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  margin: 0 0 0 -2em;
+  width: 2em;
 }
 li {
   font-family: "Poppins", sans-serif;
