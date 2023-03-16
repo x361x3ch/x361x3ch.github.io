@@ -64,6 +64,7 @@ ul {
 }
 li::before {
   content: "\𑁦";
+  color: #86AD41;
   text-align: left;
   display: inline-block;
   padding: 0;
