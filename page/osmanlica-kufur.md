@@ -1,4 +1,4 @@
-<link href="file:///storage/9C33-6BBD/DCIM/Folders/1/Notlar/23317.css" rel="stylesheet">
+<link href="https://x361x3ch.github.io/styles/ssss.css" rel="stylesheet">
 
 <div class=kaynak>
 
