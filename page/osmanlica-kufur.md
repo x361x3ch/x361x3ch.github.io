@@ -6,6 +6,7 @@
 
 </div>
 
+
 ## Dikkat Bu Vesika Küfür İçerir  
 Çanakkale denildiğinde hemen akla gelen hususlardan biri, Türklerin ve Anzakların birbirleriyle gece vakti siperlerde kurdukları iletişimdir. Özellikle de bizimkilerin Anzak siperlerine peksimet atması, Anzakların çikolata fırlatması, <!-- https://twitter.com/i/status/1636990887216525312 --> karşılıklı istekler üzerine söylene türklüler akla ilk gelen örneklerdir. Fakat paylaştığım örneğin daha evvel paylaşılanlarla bir olmadığı aşikardır. Osmanlı astsubaylarından birine ait olan bu yazı, Anzaklara ağır küfürler içeriyor.
 
