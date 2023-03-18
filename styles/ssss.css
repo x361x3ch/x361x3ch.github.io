@@ -7,7 +7,6 @@
 		}
 
 	}
-
 	a {
 		-webkit-text-decoration: none;
 		text-decoration: none;
@@ -27,7 +26,7 @@
 		background-color: #86AD41;
 		font-family: Poppins;
 		float: right;
-		margin: 5px;
+		margin-right: 5px;
 	}
 	body {
 		background-color: #232323;
@@ -54,7 +53,6 @@
 		        font-feature-settings: "sups";
 		font-size: 1em;
 	}
-
 	sub {
 		vertical-align: baseline;
 		-webkit-font-feature-settings: "subs";
@@ -66,17 +64,14 @@
 		float: left;
 		margin: 0 1vw 0 0;
 	}
-
 	ul, li {
 		margin: 0 0 0 -5vw;
 	}
-
 	h1, h2, h3, h4, h5 {
 		text-transform: uppercase;
 		font-family: Quicksand;
 		border-bottom: none;
 	}
-
 	hr {
 		border: none;
 		background-color: #86AD41;
