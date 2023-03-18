@@ -4,7 +4,6 @@ body:not(.kaynak) {
   margin: 10vw 5vw 15vw 5vw;
   text-align: justify;
   text-align-last: left;
-  text-align-single: left;
   justify-content: center;
   word-break: break-all;
   word-spacing: 0.5px;
