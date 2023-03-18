@@ -111,9 +111,9 @@ div.kaynak {
   top: 0px;
   position: -webkit-sticky;
   position: sticky;
-  margin: -15vw -10vw 1vw -15vw;
-  padding: 30vw -5vw 30vw -5vw;
   text-align: right;
+  margin: -3vw -12vw 0 -12vw;
+  padding: 1px 12vw 0 12vw;
 }
 div.kaynak a {
   color: WhiteSmoke;
