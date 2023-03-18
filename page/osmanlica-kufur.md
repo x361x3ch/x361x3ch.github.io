@@ -2,7 +2,7 @@
 
 <div class=kaynak>
 
-<a href="https://twitter.com/yusabayrm/">Yuşa Bayramoğlu</a><br/><a href="https://twitter.com/i/status/1636990629363216385" >2023-03-18 · 7:19 AM</a>
+<a href="https://twitter.com/yusabayrm/">Yuşa Bayramoğlu</a><br/><a href="https://twitter.com/i/status/1636990629363216385" >2023-03-18 · 10.19</a>
 
 </div>
 
