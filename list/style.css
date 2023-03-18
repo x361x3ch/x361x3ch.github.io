@@ -100,7 +100,7 @@ mark2 {
   right: 0px;
   position: -webkit-fixed;
   position: fixed;
-  float: right;
+  text-align: right;
 }
 .kaynak a {
   color: WhiteSmoke;
