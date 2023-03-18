@@ -41,7 +41,7 @@ p:not(.kaynak) {
   color: #434343;
   text-indent: 5vw;
 }
-a {
+a:not(.kaynak) {
   -webkit-text-decoration: none;
   text-decoration: none;
   color: #86ad41;
