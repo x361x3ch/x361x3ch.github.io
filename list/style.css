@@ -97,6 +97,7 @@ mark2 {
   text-indent: 0px;
   top: 0px;
   left: 0px;
+  right: 0px;
   position: -webkit-sticky;
   position: sticky;
   float: right;
