@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap");
-body:not(.kaynak) {
+body {
   background-color: #e8e8e8;
   margin: 10vw 5vw 15vw 5vw;
   text-align: justify;
@@ -35,12 +35,12 @@ h4 {
   line-height: 10vw;
   word-spacing: 1px;
 }
-p:not(.kaynak) {
+p {
   font-family: Poppins;
   color: #434343;
   text-indent: 5vw;
 }
-a:not(.kaynak) {
+a {
   -webkit-text-decoration: none;
   text-decoration: none;
   color: #86ad41;
