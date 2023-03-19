@@ -94,7 +94,7 @@ div.kaynak {
   padding: 1vw;
 }
 
-a.kaynak:link { text-decoration: none; color: white; font-family: Quicksand }
-a.kaynak:visited { text-decoration: none; color: white; font-family: Quicksand }
-a.kaynak:hover { text-decoration: none; color: white; font-family: Quicksand }
-a.kaynak:active { text-decoration: none; color: white; font-family: Quicksand } 
+a.kaynak:link { text-decoration: none; color: white; font-family: Quicksand; }
+a.kaynak:visited { text-decoration: none; color: white; font-family: Quicksand; }
+a.kaynak:hover { text-decoration: none; color: white; font-family: Quicksand; }
+a.kaynak:active { text-decoration: none; color: white; font-family: Quicksand; } 
