@@ -90,7 +90,7 @@ div.kaynak {
   line-height:1;
   position: fixed;
   padding: 1vw;
-  margin: 0 0 1vw 0;
+  margin: 0 0 10vw 0;
 }
 
 a.kaynak:link { text-decoration: none; color: white; font-family: Quicksand; float: right; margin-right: 7vw; }
