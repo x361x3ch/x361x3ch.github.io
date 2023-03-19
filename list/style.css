@@ -1,5 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap");
 
+@media only screen and (min-width: 1900px) {
+  body {
+	margin: 5vw 2.5vw 5vw 2.5vw;
+	column-gap: 1vw;
+    column-count: 3;
+  }
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 1vw 5vw 0 0vw;
+}
+
+ul { padding: 0vw 0 0 0; /*onemli*/ }
+
+}
+
 @media only screen and (min-width: 780px) {
   body {
 	margin: 5vw 2.5vw 5vw 2.5vw;
