@@ -16,4 +16,8 @@
 
 <!-- https://twitter.com/i/status/1636991070956388353 -->
 
-Mesela İlk satırda “ ananızı avradınızı si...cem ve sizi geberdecez ” yazmakta İkinci satırda ise “ Bu kağıdı alın ananızın a...a sokun !” Yazmış aslında bu tür evraklar bize Çanakkale’deki cepe hayatına dair anlatılanların yanı sıra, <!-- https://twitter.com/i/status/1636991681462509569 --> gün yüzün hiç çıkmamış bambaşka bir Çanakkale’yi de göstermektedir. ![](https://pbs.twimg.com/media/FrfCTFhWIAEg8MO.jpg) Yani astsubayı da haksız görmemek lazım. Sonuçta denizleri aşıp fersah fersah öteden gelen düşmana “ aşkom ne zaman gidiyorsunuz” demelerini beklememek lazım.
+Mesela İlk satırda “ ananızı avradınızı si...cem ve sizi geberdecez ” yazmakta İkinci satırda ise “ Bu kağıdı alın ananızın a...a sokun !” Yazmış aslında bu tür evraklar bize Çanakkale’deki cepe hayatına dair anlatılanların yanı sıra, <!-- https://twitter.com/i/status/1636991681462509569 --> gün yüzün hiç çıkmamış bambaşka bir Çanakkale’yi de göstermektedir. 
+
+![](https://pbs.twimg.com/media/FrfCTFhWIAEg8MO.jpg) 
+
+Yani astsubayı da haksız görmemek lazım. Sonuçta denizleri aşıp fersah fersah öteden gelen düşmana “ aşkom ne zaman gidiyorsunuz” demelerini beklememek lazım.
