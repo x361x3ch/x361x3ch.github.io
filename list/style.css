@@ -90,11 +90,10 @@ div.kaynak {
   right: 0px;
   line-height:1;
   position: fixed;
-  float: right;
   padding: 1vw;
 }
 
-a.kaynak:link { text-decoration: none; color: white; font-family: Quicksand; }
+a.kaynak:link { text-decoration: none; color: white; font-family: Quicksand; text-align: right; }
 a.kaynak:visited { text-decoration: none; color: white; font-family: Quicksand; }
 a.kaynak:hover { text-decoration: none; color: white; font-family: Quicksand; }
 a.kaynak:active { text-decoration: none; color: white; font-family: Quicksand; } 
