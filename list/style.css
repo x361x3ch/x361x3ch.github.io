@@ -95,9 +95,10 @@ mark2 {
   top: 0px;
   left: 0px;
   right: 0px;
-  position: sticky;
+  position: fixed;
 }
 .kaynak p {
+  text-align: right; 
   color: WhiteSmoke;
   font-family: Poppins;
   text-indent: 0px;
