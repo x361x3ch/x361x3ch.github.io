@@ -22,7 +22,7 @@ ul { padding: 0vw 0 0 0; /*onemli*/ }
   body {
 	margin: 1vw 2.5vw 5vw 2.5vw;
 	column-gap: 1vw;
-    column-count: inherit;
+    column-count: 2;
   }
 
 h1,
