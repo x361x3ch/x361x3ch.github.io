@@ -97,5 +97,6 @@ mark2 {
   right: 0px;
   position: fixed;
   text-align: right;
-	a { text-decoration: none; color: white; }
+	a:link { text-decoration: none; color: white; }
+	a:hover { text-decoration: none; color: white; }
 }
