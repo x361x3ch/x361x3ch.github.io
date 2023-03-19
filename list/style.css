@@ -35,11 +35,7 @@ h4 {
   line-height: 10vw;
   word-spacing: 1px;
 }
-p {
-  font-family: Poppins;
-  color: #434343;
-  text-indent: 5vw;
-}
+p { font-family: Poppins; color: #434343; text-indent: 5vw; }
 a {
   -webkit-text-decoration: none;
   text-decoration: none;
