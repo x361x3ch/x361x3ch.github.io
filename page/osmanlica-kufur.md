@@ -6,7 +6,7 @@
 
 <br/>
 
-<a class="kaynak" href="https://twitter.com/i/status/1636990629363216385" >2023-03-18 · 10.19</a>
+<a class="kaynak" href="https://twitter.com/i/status/1636990629363216385">2023-03-18 · 10.19</a>
 
 </div>
 
