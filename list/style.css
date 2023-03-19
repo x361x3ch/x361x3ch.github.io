@@ -95,6 +95,7 @@ div.kaynak {
   top: 0px;
   left: 0px;
   right: 0px;
+  line-height:1;
   position: fixed;
   text-align: right;
   padding: 1vw;
