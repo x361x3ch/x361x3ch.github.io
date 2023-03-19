@@ -14,6 +14,8 @@ h4 {
   margin: 1vw 5vw 0 0vw;
 }
 
+li { padding: 0vw 0 0 0; /*onemli*/ }
+
 }
 
 body {
