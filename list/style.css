@@ -97,8 +97,9 @@ mark2 {
   right: 0px;
   position: fixed;
   text-align: right;
-	a:link { text-decoration: none; color: white; }
-	a:visited { text-decoration: none; color: white; }
-	a:hover { text-decoration: none; color: white; }
-	a:active { text-decoration: none; color: white; }
 }
+
+a.kaynak:link { text-decoration: none; color: white; }
+a.kaynak:visited { text-decoration: none; color: white; }
+a.kaynak:hover { text-decoration: none; color: white; }
+a.kaynak:active { text-decoration: none; color: white; } 
