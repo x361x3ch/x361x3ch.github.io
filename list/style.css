@@ -73,10 +73,7 @@ hr {
   margin-left: 0%;
   margin-right: 0%;
 }
-mark {
-  padding: 0.1vw 0.1vw 0.1vw 0.1vw;
-  border-radius: 5px 5px 5px 5px;
-}
+mark { padding: 0.1vw 0.1vw 0.1vw 0.1vw;border-radius: 5px 5px 5px 5px; }
 mark1 {
   background-color: DeepPink;
   color: WhiteSmoke;
