@@ -2,6 +2,7 @@
 
 @media only screen and (min-width: 780px) {
   body {
+	margin: 5vw 2.5vw 5vw 2.5vw;
 	column-gap: 1vw;
     column-count: 3;
   }
