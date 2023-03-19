@@ -97,7 +97,7 @@ mark2 {
   right: 0px;
   position: fixed;
 }
-.kaynak p {
+.kaynak > p {
   text-align: right; 
   color: WhiteSmoke;
   font-family: Poppins;
