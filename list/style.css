@@ -97,6 +97,7 @@ div + p {
   line-height:1; 
 }
 
+
 a.kaynak:link { text-decoration: none; color: white; font-family: Quicksand; float: right; margin-right: 6vw; }
 a.kaynak:visited { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; }
 a.kaynak:hover { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; }
