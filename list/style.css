@@ -99,6 +99,6 @@ div.kaynak + p {
   margin-right: 6vw; 
 }
 div.kaynak + a:link { text-decoration: none; color: white; font-family: Quicksand; }
-div.kaynak + a:visited { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; }
-div.kaynak + a:hover { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; }
-div.kaynak + a:active { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; } 
+div.kaynak + a:visited { text-decoration: none; color: white; font-family: Quicksand; }
+div.kaynak + a:hover { text-decoration: none; color: white; font-family: Quicksand;  }
+div.kaynak + a:active { text-decoration: none; color: white; font-family: Quicksand;  } 
