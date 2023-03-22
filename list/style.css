@@ -95,7 +95,7 @@ div.kaynak {
 div.kaynak > p {
   text-indent: 0px;
   line-height:1; 
-  float: right; 
+  text-align: right; 
   margin-right: 6vw; 
 }
 div.kaynak > a:link { text-decoration: none; color: white; font-family: Quicksand; }
