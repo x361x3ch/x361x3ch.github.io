@@ -85,14 +85,16 @@ mark2 {
 }
 div.kaynak {
   background-color: #86ad41;
-  text-indent: 0px;
   top: 0px;
   left: 0px;
   right: 0px;
-  line-height:1;
   position: fixed;
   padding: 1vw;
   margin: 0 0 0vw 0;
+}
+div + p {
+  text-indent: 0px;
+  line-height:1; 
 }
 
 a.kaynak:link { text-decoration: none; color: white; font-family: Quicksand; float: right; margin-right: 6vw; }
