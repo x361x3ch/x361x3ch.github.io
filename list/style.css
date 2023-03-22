@@ -92,13 +92,13 @@ div.kaynak {
   padding: 1vw;
   margin: 0 0 0vw 0;
 }
-div.kaynak ~ p {
+div.kaynak > p {
   text-indent: 0px;
   line-height:1; 
   float: right; 
   margin-right: 6vw; 
 }
-div.kaynak ~ a:link { text-decoration: none; color: white; font-family: Quicksand; }
-div.kaynak ~ a:visited { text-decoration: none; color: white; font-family: Quicksand; }
-div.kaynak ~ a:hover { text-decoration: none; color: white; font-family: Quicksand;  }
-div.kaynak ~ a:active { text-decoration: none; color: white; font-family: Quicksand;  } 
+div.kaynak > a:link { text-decoration: none; color: white; font-family: Quicksand; }
+div.kaynak > a:visited { text-decoration: none; color: white; font-family: Quicksand; }
+div.kaynak > a:hover { text-decoration: none; color: white; font-family: Quicksand;  }
+div.kaynak > a:active { text-decoration: none; color: white; font-family: Quicksand;  } 
