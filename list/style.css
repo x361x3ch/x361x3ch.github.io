@@ -97,6 +97,6 @@ div.kaynak + p {
   line-height:1; 
 }
 div.kaynak + a:link { text-decoration: none; color: white; font-family: Quicksand; float: right; margin-right: 6vw; }
-div.kaynak + a.kaynak:visited { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; }
-a.kaynak:hover { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; }
-a.kaynak:active { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; } 
+div.kaynak + a:visited { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; }
+div.kaynak + a:hover { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; }
+div.kaynak + a:active { text-decoration: none; color: white; font-family: Quicksand; float: right; float: right; margin-right: 6vw; } 
