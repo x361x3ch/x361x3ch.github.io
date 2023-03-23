@@ -60,7 +60,7 @@ li {
 }
 img {
   max-width: 90vw;
-  text-indent: 0vw;
+  text-indent: 0px;
 }
 hr {
   background-color: #86ad41;
