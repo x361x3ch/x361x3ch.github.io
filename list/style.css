@@ -88,7 +88,7 @@ div.kaynak {
   left: 0px;
   right: 0px;
   position: fixed;
-  padding: 1vw;
+  padding: 3vw;
   margin: 0 0 0vw 0;
 }
 div.kaynak > a:link, a:visited, a:hover, a:active {
