@@ -91,7 +91,7 @@ div.kaynak {
   padding: 1vw;
   margin: 0 0 0vw 0;
 }
-div.kaynak > a:link {
+div.kaynak > a:link, a:visited, a:hover a:active {
   text-indent: 0px;
   line-height:1; 
   text-align: right; 
@@ -100,7 +100,3 @@ div.kaynak > a:link {
   color: white;
   font-family: Quicksand;
 }
-div.kaynak >  {  }
-div.kaynak > a:visited { text-decoration: none; color: white; font-family: Quicksand; }
-div.kaynak > a:hover { text-decoration: none; color: white; font-family: Quicksand;  }
-div.kaynak > a:active { text-decoration: none; color: white; font-family: Quicksand;  } 
