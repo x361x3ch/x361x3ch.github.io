@@ -90,6 +90,7 @@ div.kaynak {
   position: fixed;
   padding: 3vw;
   margin: 0 0 0vw 0;
+  opacity: 50%;
 }
 div.kaynak > a:link, a:visited, a:hover, a:active {
   text-indent: 0px;
