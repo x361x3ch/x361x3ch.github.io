@@ -94,7 +94,7 @@ div.kaynak {
 #div.kaynak > p, a:link, a:visited, a:hover, a:active {
   text-indent: 0px;
   line-height:1; 
-  text-align: right; 
+  float: right; 
   margin-right: 5vw; 
   text-decoration: none; 
   color: white;
