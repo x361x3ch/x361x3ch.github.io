@@ -91,7 +91,7 @@ div.kaynak {
   padding: 1vw;
   margin: 0 0 0vw 0;
 }
-#div.kaynak + p, a:link, a:visited, a:hover, a:active {
+div.kaynak > p, a:link, a:visited, a:hover, a:active {
   text-indent: 0px;
   line-height:1; 
   float: right; 
