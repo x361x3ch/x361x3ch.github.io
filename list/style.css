@@ -92,7 +92,7 @@ div.kaynak {
   margin: 0 0 3vw 0;
   opacity: 100%;
 }
-div.kaynak > a:link, a:visited, a:hover, a:active {
+a.kaynak:link, a.kaynak:visited, a:hover, a:active {
   text-indent: 0px;
   line-height:1; 
   float: right; 
