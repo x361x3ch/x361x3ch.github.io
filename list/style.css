@@ -37,8 +37,8 @@ h4 {
   word-spacing: 1px;
 }
 p { font-family: Poppins; color: #434343; text-indent: 5vw; }
+a { text-decoration: none; }
 a:link, a:visited, a:hover, a:active {
-  text-decoration: none; 
   color: #86AD41;
   font-family: Quicksand;
 }
