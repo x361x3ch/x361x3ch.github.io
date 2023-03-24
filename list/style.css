@@ -92,7 +92,6 @@ a.kaynak:link, a.kaynak:visited, a.kaynak:hover, a.kaynak:active {
   line-height:1; 
   float: right; 
   margin-right: 3vw; /* 9.48vw */ 
-  text-decoration: none; 
   color: white;
   font-family: Quicksand;
 }
