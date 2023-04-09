@@ -18,6 +18,19 @@
         border-radius: 10px;
         margin: 10px;
         cursor: pointer;
+        overflow: hidden;
+      }
+
+      #theme-toggle-label {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        background-color: #ffffff;
+        text-indent: -9999px;
+        transition: background-color 0.2s ease-in-out;
       }
 
       #theme-toggle-circle {
@@ -27,27 +40,28 @@
         width: 15px;
         height: 15px;
         border-radius: 50%;
-        background-color: #ffffff;
+        background-color: #000000;
         transition: left 0.2s ease-in-out;
+      }
+
+      #theme-toggle:checked + #theme-toggle-label {
+        background-color: #000000;
       }
 
       #theme-toggle:checked + #theme-toggle-circle {
         left: 22.5px;
-        background-color: #86AD41;
       }
     </style>
-<meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
     <div id="theme-toggle">
       <input type="checkbox" id="toggle-checkbox">
-      <label for="toggle-checkbox" id="toggle-label"></label>
+      <label for="toggle-checkbox" id="theme-toggle-label"></label>
       <div id="theme-toggle-circle"></div>
     </div>
 
     <script>
       const toggle = document.getElementById('toggle-checkbox');
-      const toggleLabel = document.getElementById('toggle-label');
       const circle = document.getElementById('theme-toggle-circle');
       const body = document.body;
 
@@ -56,12 +70,10 @@
           circle.style.left = '22.5px';
           body.style.setProperty('--bg-color', '#000000');
           body.style.setProperty('--text-color', '#ffffff');
-          toggleLabel.textContent = '';
         } else {
           circle.style.left = '2.5px';
           body.style.setProperty('--bg-color', '#ffffff');
           body.style.setProperty('--text-color', '#000000');
-          toggleLabel.textContent = '';
         }
       });
     </script>
