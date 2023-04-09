@@ -20,7 +20,7 @@ body {
 
 #theme-toggle {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: black;
 }
 
 #theme-toggle.dark-mode {
