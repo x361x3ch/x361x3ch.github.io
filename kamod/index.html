@@ -10,13 +10,6 @@
         transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
       }
 
-      .container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-      }
-
       #theme-toggle {
         position: relative;
         display: inline-block;
@@ -43,17 +36,16 @@
         background-color: #000000;
       }
     </style>
-<meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-    <div class="container">
-      <label for="theme-toggle" id="toggle-label">Toggle Theme</label>
-      <input type="checkbox" id="theme-toggle">
+    <div id="theme-toggle">
+      <input type="checkbox" id="toggle-checkbox">
+      <label for="toggle-checkbox" id="toggle-label"></label>
       <div id="theme-toggle-circle"></div>
     </div>
 
     <script>
-      const toggle = document.getElementById('theme-toggle');
+      const toggle = document.getElementById('toggle-checkbox');
       const toggleLabel = document.getElementById('toggle-label');
       const circle = document.getElementById('theme-toggle-circle');
       const body = document.body;
@@ -61,14 +53,14 @@
       toggle.addEventListener('change', (e) => {
         if (e.target.checked) {
           circle.style.left = '22.5px';
-          body.style.setProperty('--bg-color', '#86AD41');
+          body.style.setProperty('--bg-color', '#000000');
           body.style.setProperty('--text-color', '#ffffff');
-          toggleLabel.textContent = 'Light Mode';
+          toggleLabel.textContent = '';
         } else {
           circle.style.left = '2.5px';
           body.style.setProperty('--bg-color', '#ffffff');
           body.style.setProperty('--text-color', '#000000');
-          toggleLabel.textContent = 'Dark Mode';
+          toggleLabel.textContent = '';
         }
       });
     </script>
