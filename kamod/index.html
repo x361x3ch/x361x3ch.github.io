@@ -11,6 +11,7 @@
         text-decoration: none;
         font-family: Quicksand;
         font-weight: 700;
+		color: var(--main-color);
       }
       * {
         font-family: Poppins;
@@ -93,6 +94,14 @@
       #theme-toggle:checked + #theme-toggle-circle {
         left: 22.5px;
       }
+      :root {
+  --bg-color: DeepPink;
+  --text-color: #2b2b2b;
+  --accent-color: #007bff;
+  --dark-mode-bg-color: Wheat;
+  --dark-mode-text-color: #ffffff;
+  --dark-mode-accent-color: #007bff;
+}
     </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
@@ -111,12 +120,12 @@
       toggle.addEventListener('change', (e) => {
         if (e.target.checked) {
           circle.style.left = '22.5px';
-          body.style.setProperty('--bg-color', '#313131');
-          body.style.setProperty('--text-color', 'WhiteSmoke');
+          body.style.setProperty('--bg-color');
+          body.style.setProperty('--text-color');
         } else {
           circle.style.left = '2.5px';
-          body.style.setProperty('--bg-color', 'WhiteSmoke');
-          body.style.setProperty('--text-color', '#313131');
+          body.style.setProperty('--dark-mode-bg-color');
+          body.style.setProperty('--text-color');
         }
       });
     </script>
