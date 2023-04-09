@@ -1,16 +1,75 @@
-<!DOCTYPE html lang="tr">
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Karanlık ve Aydınlık Tema</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="script.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dark/Light Theme Toggle</title>
+    <style>
+      body {
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        font-family: Arial, sans-serif;
+        transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+      }
+
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+
+      #theme-toggle {
+        position: relative;
+        display: inline-block;
+        width: 40px;
+        height: 20px;
+        border-radius: 10px;
+        margin: 10px;
+        cursor: pointer;
+      }
+
+      #theme-toggle-circle {
+        position: absolute;
+        top: 2.5px;
+        left: 2.5px;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background-color: #ffffff;
+        transition: left 0.2s ease-in-out;
+      }
+
+      #theme-toggle:checked + #theme-toggle-circle {
+        left: 22.5px;
+        background-color: #000000;
+      }
+    </style>
   </head>
   <body>
-    <div id="theme-toggle">
+    <div class="container">
+      <label for="theme-toggle" id="toggle-label">Toggle Theme</label>
+      <input type="checkbox" id="theme-toggle">
       <div id="theme-toggle-circle"></div>
     </div>
-    <h1>Hoş Geldiniz!</h1>
-    <p>Bu sayfada karanlık ve aydınlık tema arasında geçiş yapabilirsiniz.</p>
+
+    <script>
+      const toggle = document.getElementById('theme-toggle');
+      const toggleLabel = document.getElementById('toggle-label');
+      const circle = document.getElementById('theme-toggle-circle');
+      const body = document.body;
+
+      toggle.addEventListener('change', (e) => {
+        if (e.target.checked) {
+          circle.style.left = '22.5px';
+          body.style.setProperty('--bg-color', '#000000');
+          body.style.setProperty('--text-color', '#ffffff');
+          toggleLabel.textContent = 'Light Mode';
+        } else {
+          circle.style.left = '2.5px';
+          body.style.setProperty('--bg-color', '#ffffff');
+          body.style.setProperty('--text-color', '#000000');
+          toggleLabel.textContent = 'Dark Mode';
+        }
+      });
+    </script>
   </body>
 </html>
