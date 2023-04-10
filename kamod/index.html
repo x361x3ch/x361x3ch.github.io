@@ -1,82 +1,19 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Dark/Light Theme Toggle</title>
-    <style>
-      body {
-        background-color: var(--bg-color);
-        color: var(--text-color);
-        font-family: Arial, sans-serif;
-        transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  <div class="dark-mode">
+    <input type="checkbox" id="dark-mode-toggle">
+    <label for="dark-mode-toggle">Dark Mode</label>
+  </div>
+
+  <script>
+    const toggle = document.getElementById("dark-mode-toggle");
+    const body = document.body;
+
+    toggle.addEventListener("change", () => {
+      if (toggle.checked) {
+        body.classList.add("dark-mode");
+      } else {
+        body.classList.remove("dark-mode");
       }
-
-      #theme-toggle {
-        position: relative;
-        display: inline-block;
-        width: 40px;
-        height: 20px;
-        border-radius: 10px;
-        margin: 10px;
-        cursor: pointer;
-        overflow: hidden;
-      }
-
-      #theme-toggle-label {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        border-radius: 10px;
-        background-color: #ffffff;
-        text-indent: -9999px;
-        transition: background-color 0.2s ease-in-out;
-      }
-
-      #theme-toggle-circle {
-        position: absolute;
-        top: 2.5px;
-        left: 2.5px;
-        width: 15px;
-        height: 15px;
-        border-radius: 50%;
-        background-color: #000000;
-        transition: left 0.2s ease-in-out;
-      }
-
-      #theme-toggle:checked + #theme-toggle-label {
-        background-color: #000000;
-      }
-
-      #theme-toggle:checked + #theme-toggle-circle {
-        left: 22.5px;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="theme-toggle">
-      <input type="checkbox" id="toggle-checkbox">
-      <label for="toggle-checkbox" id="theme-toggle-label"></label>
-      <div id="theme-toggle-circle"></div>
-    </div>
-
-    <script>
-      const toggle = document.getElementById('toggle-checkbox');
-      const circle = document.getElementById('theme-toggle-circle');
-      const body = document.body;
-
-      toggle.addEventListener('change', (e) => {
-        if (e.target.checked) {
-          circle.style.left = '22.5px';
-          body.style.setProperty('--bg-color', '#313131');
-          body.style.setProperty('--text-color', 'WhiteSmoke');
-        } else {
-          circle.style.left = '2.5px';
-          body.style.setProperty('--bg-color', 'Wheat');
-          body.style.setProperty('--text-color', 'DarkBrown');
-        }
-      });
-    </script>
-<p> rayiç bedel </p>
-  </body>
+    });
+  </script>
+</body>
 </html>
