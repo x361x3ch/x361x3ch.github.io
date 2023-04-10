@@ -1,136 +1,130 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Örnek Sayfa</title>
-  <style>
-    /* Reset CSS */
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Sayfa</title>
+    <style>
+        /* Genel stiller */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    /* Body */
-    body {
-      font-family: Arial, sans-serif;
-      font-size: 16px;
-      line-height: 1.5;
-      background-color: #2C2924;
-      color: #FCFCFA;
-    }
+        /* Aydınlık mod */
+        body {
+            background-color: #FCFCFA;
+            color: #2C2924;
+        }
 
-    /* Header */
-    header {
-      background-color: #1E1E1E;
-      color: #FCFCFA;
-      padding: 10px;
-      text-align: center;
-    }
+        /* Karanlık mod */
+        body.dark-mode {
+            background-color: #2C2924;
+            color: #FCFCFA;
+        }
 
-    /* Footer */
-    footer {
-      background-color: #1E1E1E;
-      color: #FCFCFA;
-      padding: 10px;
-      text-align: center;
-      position: absolute;
-      bottom: 0;
-      width: 100%;
-    }
+        /* Header stilleri */
+        header {
+            background-color: #86AD41;
+            color: #FCFCFA;
+            padding: 20px;
+            text-align: center;
+        }
 
-    /* Container */
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      display: flex;
-      flex-wrap: wrap;
-    }
+        /* Ortadaki sütun stilleri */
+        .middle-column {
+            background-color: #FCFCFA;
+            color: #2C2924;
+            padding: 20px;
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+        }
 
-    /* Columns */
-    .column {
-      flex: 1;
-      padding: 10px;
-    }
+        /* Aydınlık modda ortadaki sütun stilleri */
+        body.dark-mode .middle-column {
+            background-color: #2C2924;
+            color: #FCFCFA;
+        }
 
-    /* Middle Column */
-    .middle-column {
-      flex-basis: 100%;
-      order: 2;
-    }
+        /* Footer stilleri */
+        footer {
+            background-color: #86AD41;
+            color: #FCFCFA;
+            padding: 20px;
+            text-align: center;
+        }
 
-    /* Dark Mode */
-    .dark-mode {
-      position: fixed;
-      top: 50%;
-      right: 0;
-      transform: translateY(-50%);
-      writing-mode: vertical-lr;
-    }
+        /* Toggle stilleri */
+        .toggle {
+            position: fixed;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);
+            background-color: #86AD41;
+            color: #FCFCFA;
+            padding: 10px;
+            border-radius: 20px;
+            cursor: pointer;
+            z-index: 9999;
+        }
 
-    /* Links */
-    a:link,
-    a:hover,
-    a:visited,
-    a:active {
-      color: teal;
-    }
+        /* Aydınlık modda toggle stilleri */
+        body.dark-mode .toggle {
+            background-color: #FCFCFA;
+            color: #2C2924;
+        }
 
-    /* Media Queries */
-    @media only screen and (min-width: 768px) {
-      .column {
-        flex-basis: 33.33%;
-        order: 1;
-      }
-
-      .middle-column {
-        order: 2;
-      }
-    }
-  </style>
+        /* Mobil stiller */
+        @media (max-width: 768px) {
+            .middle-column {
+                width: 100%;
+                max-width: 100%;
+                padding: 10px;
+            }
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>Örnek Sayfa Başlığı</h1>
-  </header>
+    <!-- Toggle -->
+    <div class="toggle" onclick="toggleDarkMode()">Dark Mode</div>
 
-  <div class="container">
-    <div class="column">
-      <h2>Birinci Sütun</h2>
-      <p>Bu birinci sütunun içeriği.</p>
+    <!-- Header -->
+    <header>
+        <h1>Header</h1>
+    </header>
+
+    <!-- Middle Column -->
+    <div class="middle-column">
+        <h2>Orta Sütun</h2>
+        <p>Bu orta sütunun içeriği.</p>
     </div>
 
-    <div class="column middle-column">
-      <h2>Orta Sütun</h2>
-      <p>Bu orta sütunun içeriği.</p>
-    </div>
+    <!-- Footer -->
+    <footer>
+        <p>Footer</p>
+    </footer>
 
-    <div class="column">
-      <h2>Üçüncü Sütun</h2>
-      <p>Bu üçüncü sütunun içeriği.</p>
-    </div>
-  </div>
+    <script>
+  const toggle = document.querySelector(".toggle input[type='checkbox']");
+  const body = document.querySelector("body");
+  const textElements = document.querySelectorAll(".header, .footer, .orta-menu");
 
-  <footer>
-    <p>Örnek Sayfa Footer</p>
-  </footer>
-  <div class="dark-mode">
-    <input type="checkbox" id="dark-mode-toggle">
-    <label for="dark-mode-toggle">Dark Mode</label>
-  </div>
+  toggle.addEventListener("change", () => {
+    if (toggle.checked) {
+      body.style.backgroundColor = "#FCFCFA";
+      textElements.forEach((element) => {
+        element.style.color = "#2C2924";
+      });
+    } else {
+      body.style.backgroundColor = "#2C2924";
+      textElements.forEach((element) => {
+        element.style.color = "#FCFCFA";
+      });
+    }
+  });
+</script>
 
-  <script>
-    const toggle = document.getElementById("dark-mode-toggle");
-    const body = document.body;
-
-    toggle.addEventListener("change", () => {
-      if (toggle.checked) {
-        body.classList.add("dark-mode");
-      } else {
-        body.classList.remove("dark-mode");
-      }
-    });
-  </script>
 </body>
 </html>
