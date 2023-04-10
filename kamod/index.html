@@ -108,22 +108,25 @@
 
     <script>
   const toggle = document.querySelector(".toggle input[type='checkbox']");
-  const body = document.querySelector("body");
-  const textElements = document.querySelectorAll(".header, .footer, .orta-menu");
+const body = document.querySelector("body");
+const textElements = document.querySelectorAll(".header, .footer, .orta-menu");
+const circle = document.querySelector(".circle");
 
-  toggle.addEventListener("change", () => {
-    if (toggle.checked) {
-      body.style.backgroundColor = "#FCFCFA";
-      textElements.forEach((element) => {
-        element.style.color = "#2C2924";
-      });
-    } else {
-      body.style.backgroundColor = "#2C2924";
-      textElements.forEach((element) => {
-        element.style.color = "#FCFCFA";
-      });
-    }
-  });
+toggle.addEventListener("change", () => {
+  if (toggle.checked) {
+    body.style.backgroundColor = "#FCFCFA";
+    textElements.forEach((element) => {
+      element.style.color = "#2C2924";
+    });
+    circle.style.backgroundColor = "#2C2924";
+  } else {
+    body.style.backgroundColor = "#2C2924";
+    textElements.forEach((element) => {
+      element.style.color = "#FCFCFA";
+    });
+    circle.style.backgroundColor = "#FCFCFA";
+  }
+});
 </script>
 
 </body>
