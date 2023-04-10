@@ -5,6 +5,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Html Sayfa</title>
     <style>
+        /* Genel stiller */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Aydınlık mod */
+        body {
+            background-color: #FCFCFA;
+            color: #2C2924;
+        }
+
+        /* Karanlık mod */
+        body.dark-mode {
+            background-color: #2C2924;
+            color: #FCFCFA;
+        }
+
+        /* Header stilleri */
+        header {
+            background-color: #86AD41;
+            color: #FCFCFA;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* Ortadaki sütun stilleri */
+        .middle-column {
+            background-color: #FCFCFA;
+            color: #2C2924;
+            padding: 20px;
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Aydınlık modda ortadaki sütun stilleri */
+        body.dark-mode .middle-column {
+            background-color: #2C2924;
+            color: #FCFCFA;
+        }
+
+        /* Footer stilleri */
+        footer {
+            background-color: #86AD41;
+            color: #FCFCFA;
+            padding: 20px;
+            text-align: center;
+        }
+
         .toggle {
   position: fixed;
   top: 50%;
@@ -59,11 +110,25 @@
   transform: translateY(-8px);
 }
 
+
+        /* Mobil stiller */
+        @media (max-width: 768px) {
+            .middle-column {
+                width: 100%;
+                max-width: 100%;
+                padding: 10px;
+            }
+        }
     </style>
 </head>
 <body>
-    <!-- Toggle -->
-    <div class="toggle" onclick="toggleDarkMode()">Dark Mode</div>
+    <div class="toggle">
+  <label>
+    <input type="checkbox">
+    <span class="slider"></span>
+    <span class="circle"></span>
+  </label>
+</div>
 
     <!-- Header -->
     <header>
