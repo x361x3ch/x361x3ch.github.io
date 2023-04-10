@@ -5,85 +5,60 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Html Sayfa</title>
     <style>
-        /* Genel stiller */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        /* Aydınlık mod */
-        body {
-            background-color: #FCFCFA;
-            color: #2C2924;
-        }
-
-        /* Karanlık mod */
-        body.dark-mode {
-            background-color: #2C2924;
-            color: #FCFCFA;
-        }
-
-        /* Header stilleri */
-        header {
-            background-color: #86AD41;
-            color: #FCFCFA;
-            padding: 20px;
-            text-align: center;
-        }
-
-        /* Ortadaki sütun stilleri */
-        .middle-column {
-            background-color: #FCFCFA;
-            color: #2C2924;
-            padding: 20px;
-            width: 100%;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-
-        /* Aydınlık modda ortadaki sütun stilleri */
-        body.dark-mode .middle-column {
-            background-color: #2C2924;
-            color: #FCFCFA;
-        }
-
-        /* Footer stilleri */
-        footer {
-            background-color: #86AD41;
-            color: #FCFCFA;
-            padding: 20px;
-            text-align: center;
-        }
-
-        /* Toggle stilleri */
         .toggle {
-            position: fixed;
-            top: 50%;
-            right: 20px;
-            transform: translateY(-50%);
-            background-color: #86AD41;
-            color: #FCFCFA;
-            padding: 10px;
-            border-radius: 20px;
-            cursor: pointer;
-            z-index: 9999;
-        }
+  position: fixed;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
 
-        /* Aydınlık modda toggle stilleri */
-        body.dark-mode .toggle {
-            background-color: #FCFCFA;
-            color: #2C2924;
-        }
+.toggle label {
+  display: block;
+  width: 60px;
+  height: 30px;
+  background-color: #ccc;
+  border-radius: 15px;
+  position: relative;
+}
 
-        /* Mobil stiller */
-        @media (max-width: 768px) {
-            .middle-column {
-                width: 100%;
-                max-width: 100%;
-                padding: 10px;
-            }
-        }
+.toggle label input[type="checkbox"] {
+  display: none;
+}
+
+.toggle .slider {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 26px;
+  height: 26px;
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s;
+}
+
+.toggle .circle {
+  position: absolute;
+  top: 4px;
+  left: 34px;
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s;
+}
+
+.toggle label input[type="checkbox"]:checked + .slider {
+  transform: translateX(28px);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.toggle label input[type="checkbox"]:checked + .slider + .circle {
+  transform: translateY(-8px);
+}
+
     </style>
 </head>
 <body>
