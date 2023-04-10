@@ -38,6 +38,11 @@ h3 {
   background-color: #fcfcfa;
 }
 
+header {
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
 footer {
   background-color: #86ad41;
   padding: 1rem;
