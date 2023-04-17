@@ -4,22 +4,24 @@
   padding: 0;
 }
 
-.saman-kagidi {
+.kraft-kagidi {
   width: 100%;
   height: 100vh;
-  background-color: #fff3c6;
-  background-image: linear-gradient(135deg, transparent 25%, rgba(0, 0, 0, 0.05) 25%, rgba(0, 0, 0, 0.05) 50%, transparent 50%, transparent 75%, rgba(0, 0, 0, 0.05) 75%, rgba(0, 0, 0, 0.05));
+  background-color: #e1d3b6;
+  background-image:
+    linear-gradient(45deg, rgba(0,0,0,0.05) 25%, transparent 25%, transparent 50%, rgba(0,0,0,0.05) 50%, rgba(0,0,0,0.05) 75%, transparent 75%, transparent),
+    linear-gradient(45deg, rgba(0,0,0,0.1) 25%, transparent 25%, transparent 50%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0.1) 75%, transparent 75%, transparent);
   background-size: 30px 30px;
   background-position: center center;
   position: relative;
 }
 
-.saman-kagidi::before {
+.kraft-kagidi::before {
   content: "";
   position: absolute;
   top: -5px;
   left: -5px;
   right: -5px;
   bottom: -5px;
-  border: 5px solid rgba(0, 0, 0, 0.1);
+  border: 5px solid rgba(0, 0, 0, 0.2);
 }
