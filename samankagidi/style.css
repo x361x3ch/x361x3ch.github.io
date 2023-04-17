@@ -8,18 +8,17 @@
   width: 100%;
   height: 100vh;
   background-color: #e1d3b6;
-  background-image: url('https://subtlepatterns.com/patterns/waxed_wood.png');
-  background-size: auto;
-  background-repeat: repeat;
   position: relative;
 }
 
 .kraft-kagidi::before {
   content: "";
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
-  border: 5px solid rgba(0, 0, 0, 0.2);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVQYlWNgYGBg+P///2BgYGJjY8L8//9+GwAERmQUhyYoAAAAASUVORK5CYII=");
+  background-repeat: repeat;
+  opacity: 0.4;
 }
