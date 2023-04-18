@@ -7,7 +7,7 @@
 .kraft-kagidi {
   width: 100%;
   height: 100vh;
-  background-color: #e1d3b6;
+  background-color: #fff3c6;
   position: relative;
 }
 
@@ -18,7 +18,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("http://www.transparenttextures.com/patterns/concrete-wall-2.png");
+  background-image: url("http://www.transparenttextures.com/patterns/natural-paper.png");
   background-repeat: repeat;
   opacity: 0.4;
 }
