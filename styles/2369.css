@@ -24,7 +24,7 @@ a:visited {
 	font-weight: 700;
 } 
 * {
-	font-family: Poppins, Tahoma;
+	font-family: Poppins, Georgia;
 }
 h1,
 h2,
@@ -54,7 +54,7 @@ tbody tr:nth-child(odd) {
 }
 td {
 	padding: 5vw 5vw 5vw 5vw;
-	font-family: Poppins, Tahoma;
+	font-family: Poppins, Georgia;
 }
 hr {
 	border-width: medium;
