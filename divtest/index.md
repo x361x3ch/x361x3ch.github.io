@@ -13,7 +13,7 @@
 
 ![](https://pbs.twimg.com/profile_images/1668823726341627904/0nugVhH6_bigger.jpg)
 
-</td><td style="margin-left: 5vw; font-size: 1em; width:50vw;">
+</td><td style="margin-left: 5vw; font-size: 1em; width:55vw;">
 
 [Pol 🇺🇲](https://twitter.com/DenizPol0) 
 
