@@ -9,8 +9,6 @@
 
 <!-- https://twitter.com/DenizPol0/status/1669274246642638848 -->
 
-<div class=body>
-
 <div class=tweeter>
 
 <div>
@@ -84,5 +82,3 @@ Google yazin Historical Ages, ilk cikan resim bu, bu kadar arastirmacisin iste. 
 [![](https://pbs.twimg.com/profile_images/1242208180253450241/ajZ27rAk_bigger.jpg)](https://twitter.com/MatSall94668821)
 
 1-tüm dünyada öğretilen bu değil 2-amerika keşfi de İstanbul fethinin sonucu
-
-</div>
