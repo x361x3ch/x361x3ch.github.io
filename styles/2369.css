@@ -79,7 +79,7 @@ hr {
 	margin: -2vw 0 0 -2vw;
 	background-color: #272B31;
 	position:sticky;
-	top: 0;
+	top: -10;
 }
 
 .kaynak p { padding: 5vw; text-align: right;}
