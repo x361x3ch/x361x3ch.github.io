@@ -92,7 +92,7 @@ img { color: #86AD41; font-family: Georgia; }
 
 .baglanti a:link, a:hover, a:active, a:visited { color: #313131; }
 
-#tweeter div {
+.tweeter {
   flex: 1;
   border: none;
   display: flex;
