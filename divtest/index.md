@@ -9,21 +9,21 @@
 
 <!-- https://twitter.com/DenizPol0/status/1669274246642638848 -->
 
-<div class=tweeter>
+<tr class=tweeter>
 
-<div>
+<td>
 
 ![](https://pbs.twimg.com/profile_images/1668823726341627904/0nugVhH6_bigger.jpg)
 
-</div>
+</td>
 
-<div style="margin-left: 5vw; font-size: 2em;">
+<td style="margin-left: 5vw; font-size: 2em;">
 
 [Pol 🇺🇲](https://twitter.com/DenizPol0) 
 
-</div>
+</td>
 
-</div>
+</tr>
 
 İstanbul'un Fethi fazla abartılıyor. FSM'nin fethettiği İstanbul sadece Fatih ilçesinden oluşuyordu. Fatih'in yüzölçümü 15,62km² (Mevcut İstanbul'un %0,3'ü.) Kuşatma tam 53 gün sürdü ve neredeyse vazgeçiliyordu. Fetih sonrası yapılan yanlışlardan bahsetmiyorum bile.
 
