@@ -91,3 +91,6 @@ img { color: #86AD41; font-family: Georgia; }
 .body { padding: 0 5vw 1vw 5vw; }
 
 .baglanti a:link, a:hover, a:active, a:visited { color: #313131; }
+
+.ppic { float: left; }
+.pname { float: initial; }
