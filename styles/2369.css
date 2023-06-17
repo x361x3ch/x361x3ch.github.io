@@ -79,7 +79,7 @@ hr {
 	margin: -10vw 10vw 0 -10vw;
 	background-color: #272B31;
 	position:sticky;
-	top: -10;
+	top: 0;
 }
 
 .kaynak p { padding: 5vw; writing-mode: horizontal r-l; }
