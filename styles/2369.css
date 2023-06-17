@@ -38,7 +38,8 @@ h5 {
 img, video { max-width: 100%; height: unset; }
 blockquote {
 	margin: 0 5vw 0 5vw;
-	border-left
+	border-left: red;
+}
 table {
 	border-collapse: collapse;
 	font-size: 1.1em;
