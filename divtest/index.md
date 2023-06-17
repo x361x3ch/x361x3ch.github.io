@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://x361x3ch.github.io/styles/2369.css">
 
-<div class="kaynak" markdown="1">
+<div class="kaynak" style="position: sticky;" markdown="1">
 
 [@DenizPol0](https://twitter.com/DenizPol0/ )  
 [2023-06-15 · 13.43](https://twitter.com/i/status/1669294456779026434)
