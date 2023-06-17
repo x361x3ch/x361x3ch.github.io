@@ -82,7 +82,7 @@ hr {
 	top: -10;
 }
 
-.kaynak p { padding: 5vw; writing-mode:r-l;}
+.kaynak p { padding: 5vw; writing-mode: horizontal r-l;}
 
 .kaynak a:link, a:hover, a:active, a:visited { text-decoration: none; color: WhiteSmoke; }
 
