@@ -78,7 +78,7 @@ hr {
 	top: 0;
 }
 
-.kaynak p { padding: 5vw 5vw 5vw 0; text-align:right; }
+.kaynak p { padding: 5vw 2vw 5vw 0; text-align:right; }
 
 .kaynak a:link, a:hover, a:active, a:visited { text-decoration: none; color: WhiteSmoke; }
 
