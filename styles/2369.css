@@ -24,7 +24,8 @@ a:visited {
 	font-weight: 700;
 } 
 * {
-	font-family: Poppins, Tahoma;
+	font-family: Poppins, Georgia;
+	margin: 5vw 0 5vw 0;
 }
 h1,
 h2,
