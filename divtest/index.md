@@ -9,7 +9,7 @@
 
 <!-- https://twitter.com/DenizPol0/status/1669274246642638848 -->
 
-<table class="table table-bordered"><tbody><tr><td>
+<table class="table table-bordered" markdown="1"><tbody><tr><td>
 
 ![](https://pbs.twimg.com/profile_images/1668823726341627904/0nugVhH6_bigger.jpg)
 
