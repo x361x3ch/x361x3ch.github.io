@@ -66,14 +66,14 @@ hr {
 }
 
 .kaynak {
-	width:100vw;
+	width:99vw;
 	margin: -25vw 10vw 5vw 10vw;
 	background-color: #272B31;
 	position:sticky;
 	top: 0;
 }
 
-.kaynak p { padding: 5vw 5vw 0 5vw; text-align:right; }
+.kaynak p { padding: 5vw 5vw 5vw 5vw; text-align:right; }
 
 .kaynak a:link, a:hover, a:active, a:visited { text-decoration: none; color: WhiteSmoke; }
 
