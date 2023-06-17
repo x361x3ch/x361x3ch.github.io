@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://x361x3ch.github.io/styles/2369.css">
 
-<mark class=kaynak>
+<div class="kaynak" markdown="1">
 
 [@DenizPol0](https://twitter.com/DenizPol0/ )  
 [2023-06-15 · 13.43](https://twitter.com/i/status/1669294456779026434)
 
-</mark>
+</div>
 
 <!-- https://twitter.com/DenizPol0/status/1669274246642638848 -->
 
