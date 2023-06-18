@@ -86,6 +86,7 @@ hr {
 .kaynak p {
 	padding: 5vw 10vw 5vw 10vw;
 	text-align: right; !important
+	font-family: Comfortaa;
 }
 
 .kaynak a:link, a:hover, a:active, a:visited { text-decoration: none; color: WhiteSmoke; }
