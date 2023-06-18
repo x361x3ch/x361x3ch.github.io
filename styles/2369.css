@@ -27,7 +27,7 @@ a:visited {
 	font-family: Poppins, Georgia;
 	margin: 5vw 0 5vw 0;
 	text-align: justify;
-	text-align-last: end;
+	text-align-last: start;
 	break-word: break-all;
 }
 h1,
