@@ -29,6 +29,8 @@ a:visited {
 	text-align: justify;
 	text-align-last: start;
 	break-word: break-all;
+	hyphens: auto;
+	lang: tr;
 }
 h1,
 h2,
