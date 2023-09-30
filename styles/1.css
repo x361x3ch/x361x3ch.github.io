@@ -51,3 +51,8 @@
 		text-align: right;
 		vertical-align: middle;
 	}
+	.quote {
+	background-color: #272B31;
+	padding: 2vw;
+	border-radius: 10px;
+	}
