@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300;400;500;600;700&display=swap');
+	body {
+		background-color: #1D2021;
+		color: #E9E9E9;
+		font-family: Poppins, Georgia;
+		margin: 0 7vw 0 7vw;
+		text-align: justify;
+		word-break: break-word;
+		hyphens: auto;
+		lang: tr; 
+	}
+	h1, h2, h3, h4, h5 {
+		color: #BDAE93;
+		font-family: Comfortaa, Tahoma;
+		text-align-last: left;
+		word-break: break-all;
+	}
+	a { 
+		color: #0CDEFB; 
+	}
+	a:link, 
+	a:hover, 
+	a:active,
+	a:visited {
+		text-decoration: none;
+		/*font-family: Comfortaa, Georgia;*/
+	}
+	img, video { max-width: 100%; height: unset; }
+	blockquote { margin: 0 5vw 0 5vw; }
+	hr { border-bottom:5px solid #f4f8fb; }
+	.kaynak {
+		background-color: #1F1F1F;
+		position: sticky;
+		top: 0;
+		margin: -3vw -7vw 10vw -7vw;
+		padding: 0 7vw 0 0;
+		max-height: 15vh;
+		text-align: right;
+		display: flex;
+		align-items: right;
+		justify-content: right;
+		font-size: 1.1em;
+	}
+	.kaynak img { margin-right: 0.2px; }
+	.kaynak a:link, a:hover, 
+	a:visited, a:active {
+		text-decoration: none;
+		color: #E9E9E9;
+		font-family: Quicksand, Georgia;
+		padding-right: 20px;
+		text-align: right;
+		vertical-align: middle;
+	}
