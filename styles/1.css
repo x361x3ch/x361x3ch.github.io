@@ -50,6 +50,7 @@
 		padding-right: 20px;
 		text-align: right;
 		vertical-align: middle;
+		float:none;
 	}
 	.quote {
 	background-color: #272B31;
