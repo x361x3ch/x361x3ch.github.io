@@ -41,7 +41,7 @@
 		justify-content: right;
 		font-size: 1.1em;
 	}
-	.kaynak img { margin-right: 0.2px; }
+	/*.kaynak img { margin-right: 0.2px; }*/
 	.kaynak a:link, a:hover, 
 	a:visited, a:active {
 		text-decoration: none;
