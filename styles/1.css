@@ -23,7 +23,7 @@
 	a:active,
 	a:visited {
 		text-decoration: none;
-		/*font-family: Comfortaa, Georgia;*/
+		font-family: Comfortaa, Georgia;
 	}
 	img, video { max-width: 100%; height: unset; }
 	blockquote { margin: 0 5vw 0 5vw; }
