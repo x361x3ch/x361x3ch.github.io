@@ -25,7 +25,7 @@
 		text-decoration: none;
 		font-family: Comfortaa, Georgia;
 	}
-	img, video { max-width: 100%; height: unset; margin-bottom: 10vw; }
+	img, video { max-width: 100%; height: unset; margin-bottom: 7vw; }
 	blockquote { margin: 0 5vw 0 5vw; }
 	hr { border-bottom:5px solid #f4f8fb; }
 	.kaynak {
