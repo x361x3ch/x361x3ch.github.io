@@ -56,4 +56,8 @@
 	padding: 2vw;
 	border-radius: 10px;
 	}
-	.tweet-date { float: right; }
+	.tweet-date {
+		margin: -3vw -7vw 10vw -7vw;
+		padding: 0 7vw 0 0;
+		padding: float: right; 
+	}
