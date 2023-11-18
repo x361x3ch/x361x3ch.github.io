@@ -36,23 +36,46 @@
 		background-color: #1F1F1F;
 		position: sticky;
 		top: 0;
-		margin: -3vw -7vw 10vw -7vw;
-		padding: 0 7vw 0 0;
+		margin: -3vw -7vw 0 -7vw;
+		padding: 0 7vw 0 7vw;
 		max-height: 15vh;
-		text-align: right;
+		text-align: left;
 		display: flex;
-		align-items: right;
-		justify-content: right;
+		align-items: left;
+		justify-content: left;
 		font-size: 1.1em;
 	}
-	.kaynak img { margin-right: 0.2px; }
+	.kaynak img { margin-right: 20px; border-radius: 50px;}
 	.kaynak a:link, a:hover, 
 	a:visited, a:active {
 		text-decoration: none;
 		color: #E9E9E9;
 		font-family: Quicksand, Georgia;
 		padding-right: 20px;
-		text-align: right;
+		text-align: left;
+		vertical-align: middle;
+	}
+	.kaynakb {
+		background-color: #1F1F1F;
+		/*position: sticky;*/
+		top: 0;
+		margin: -3vw -7vw 0 -7vw;
+		padding: 0 7vw 0 7vw;
+		max-height: 15vh;
+		text-align: left;
+		display: flex;
+		align-items: left;
+		justify-content: left;
+		font-size: 1.1em;
+	}
+	.kaynakb img { margin-right: 20px; border-radius: 50px;}
+	.kaynakb a:link, a:hover, 
+	a:visited, a:active {
+		text-decoration: none;
+		color: #E9E9E9;
+		font-family: Quicksand, Georgia;
+		padding-right: 20px;
+		text-align: left;
 		vertical-align: middle;
 	}
 	.quote {
@@ -65,4 +88,4 @@
 		margin: 0 7vw 0 0;
 		padding: float: right; 
 		max-height: 15vh;
-	}
+	}  
