@@ -68,7 +68,7 @@
 		justify-content: left;
 		font-size: 1.1em;
 	}
-	.kaynakb img { margin-right: 20px; border-radius: 50px;}
+	.kaynakb img { margin-right: 5vw; border-radius: 50px;}
 	.kaynakb a:link, a:hover, 
 	a:visited, a:active {
 		text-decoration: none;
