@@ -46,7 +46,7 @@
 		font-size: 1.1em;
 	}
 	.kaynak img { margin-right: 5vw; border-radius: 50px;}
-	.kaynak a:link, a:hover, 
+	.tweet-header a:link, a:hover, 
 	a:visited, a:active {
 		text-decoration: none;
 		color: #E9E9E9;
@@ -114,19 +114,3 @@
 		width: 100%;
 		display: flex; 
 }
-.tweet-header {
-  padding: 0;
-  vertical-align: bottom;
-  flex-basis: 100%;
-  margin-bottom: .2em; }
-  .tweet-header a {
-    display: inline-block;
-    word-break: break-all;
-    max-width: 100%;
-    pointer-events: all; }
-
-.tweet-name-row {
-  padding: 0;
-  display: flex;
-  justify-content: space-between; }
-
