@@ -32,7 +32,7 @@
 	}
 	blockquote { margin: 0 5vw 0 5vw; }
 	hr { border-bottom:5px solid #f4f8fb; }
-	tweet-header {
+	kaynak {
 		background-color: #1F1F1F;
 		position: sticky;
 		top: 0;
@@ -45,8 +45,8 @@
 		justify-content: left;
 		font-size: 1.1em;
 	}
-	.tweet-header img { margin-right: 5vw; border-radius: 50px;}
-	.tweet-header a:link, a:hover, 
+	.kaynak img { margin-right: 5vw; border-radius: 50px;}
+	.kaynak a:link, a:hover, 
 	a:visited, a:active {
 		text-decoration: none;
 		color: #E9E9E9;
@@ -114,3 +114,48 @@
 		width: 100%;
 		display: flex; 
 }
+.tweet-header {
+  padding: 0;
+  vertical-align: bottom;
+  flex-basis: 100%;
+  margin-bottom: .2em; }
+  .tweet-header a {
+    display: inline-block;
+    word-break: break-all;
+    max-width: 100%;
+    pointer-events: all; }
+
+.tweet-name-row {
+  padding: 0;
+  display: flex;
+  justify-content: space-between; }
+
+.fullname-and-username {
+  display: flex;
+  min-width: 0; }
+
+.fullname {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 2;
+  max-width: 80%;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--fg_color); }
+
+.username {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 1.6em;
+  margin-left: .4em;
+  word-wrap: normal; }
+
+.tweet-date {
+  display: flex;
+  flex-shrink: 0;
+  margin-left: 4px; }
+
+.tweet-date a, .username, .show-more a {
+  color: var(--fg_dark); }
