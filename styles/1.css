@@ -130,7 +130,7 @@
   display: flex;
   justify-content: space-between; }
 
-.fullname-and-username {
+/*.fullname-and-username {
   display: flex;
   min-width: 0; }
 
@@ -158,4 +158,4 @@
   margin-left: 4px; }
 
 .tweet-date a, .username, .show-more a {
-  color: var(--fg_dark); }
+  color: var(--fg_dark); }*/
