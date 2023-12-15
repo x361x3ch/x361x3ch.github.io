@@ -33,10 +33,10 @@
 	blockquote { margin: 0 5vw 0 5vw; }
 	hr { border-bottom:5px solid #f4f8fb; }
 	.tweet-header {
-		background-color: #86AD41;
+		background-color: #1F1F1F;
 		position: sticky;
 		top: 0;
-		margin: -3vw -7vw -7vw -7vw;
+		margin: -3vw -7vw -2vw -7vw;
 		padding: 0 7vw 0 7vw;
 		max-height: 15vh;
 		text-align: left;
