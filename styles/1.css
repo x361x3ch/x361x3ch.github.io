@@ -104,7 +104,7 @@
 		max-width: 533px;
 		pointer-events: all; 
 }
-.gallery-row img {
+	.gallery-row img {
 		object-fit: cover;
 		display: inline-block; 
 		max-width: 100%;
