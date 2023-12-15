@@ -44,7 +44,7 @@
 		align-items: left;
 		justify-content: left;
 		font-size: 1.1em;
-		last-child::margin-bottom: -5px;
+		last-child::line-height: -5px;
 	}
 	.tweet-header img { margin-right: 5vw; border-radius: 50px;}
 	.tweet-header a:link, a:hover, 
