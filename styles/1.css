@@ -103,7 +103,7 @@
 		max-height: 379.5px;
 		max-width: 533px;
 		pointer-events: all; 
-}
+	}
 	.gallery-row img {
 		object-fit: cover;
 		display: inline-block; 
@@ -113,4 +113,4 @@
 		flex-grow: 1;
 		width: 100%;
 		display: flex; 
-}
+	}
